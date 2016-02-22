@@ -1,3 +1,4 @@
+#### PSO2ACT(JP)
 A plugin for use with Advanced Combat Tracker to parse PSO2 damage logs.
 
 Damage log CSV format: timestamp, instanceID, sourceID, sourceName, targetID, targetName, attackID, damage, IsJA, IsCrit, IsMultiHit, IsMisc, IsMisc2
