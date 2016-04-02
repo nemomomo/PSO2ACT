@@ -1,3 +1,18 @@
+ヒット,3481186334,Melee,素手 first normal attack
+ヒット,1578628668,Melee,素手 second normal attack
+ヒット,888355388,Melee,素手 third normal attack
+ヒット,1306546230,Melee,素手 air first normal attack
+ヒット,439463649,Melee,素手 air second normal attack
+ヒット,2213730805,Melee,素手 air third normal attack
+ステップアタック,2071807444,Melee,素手 ステップアタック
+素手,3085782811,PA,Unarmed
+ヒット,1698836726,Melee,Rod 1
+ヒット,1698835954,Melee,Rod 2
+ヒット,1698835891,Melee,Rod 3
+ロッドシュート,82081592,Melee,Rod Shoot
+ヒット,603769614,Melee,Talis first normal attack
+ヒット,603769679,Melee,Talis second normal attack
+ヒット,603769484,Melee,Talis third normal attack
 フォイエ,2875245395,Tech,Uncharged
 フォイエ,169905548,Tech,Charged
 ギ・フォイエ,46933754,Tech,Uncharged
@@ -89,7 +104,10 @@
 フォメルギオン,1671704953,Tech,???
 ザンディオン,481495314,Tech,???
 ザンディオン,2644417114,Tech,???
-バーン,2505928584,Status,バーン status
+ポイズン,1739789664,Status,ポイズン status Lv3
+ポイズン,1739789667,Status,ポイズン status Lv4
+バーン,2505928696,Status,バーン status Lv3
+バーン,2505928584,Status,バーン status LV4
 ヒット,1775819901,Melee,Wand
 ヒット,1775820734,Melee,Wand
 ヒット,1775820799,Melee,Wand
@@ -111,6 +129,9 @@
 ヒット,1215379240,Melee,Sword, 1st
 ヒット,1215379433,Melee,Sword, 2nd
 ヒット,1215367338,Melee,Sword, 3rd
+ヒット,1331225211,Melee,Sword air first normal attack
+ヒット,1331225593,Melee,Sword air second normal attack 
+ヒット,1331225146,Melee,Sword air third normal attack
 ライジングエッジ,1227622308,PA,Start
 ライジングエッジ,1224723795,PA,Spin
 ツイスターフォール,1224723730,PA,Spin
@@ -146,9 +167,15 @@ Enemy Thrown,2164805818,PA,beatdown
 サクリファイスバイト,2606728976,PA,サクリファイスバイト smack
 イグナイトパリング,3096775537,PA,イグナイトパリング first four strikes
 イグナイトパリング,54200585,PA,イグナイトパリング final two strikes
+イグナイトパリング,498184876,PA,first hit?
+イグナイトパリング,915561415,PA,last two hits?
+イグナイトパリング,915578993,PA,last two hits?
 ヒット,2285482403,Melee,Partisan 1
 ヒット,2226608029,Melee,Partisan 2
 ヒット,3208780153,Melee,Partisan 3
+ヒット,689132866,Melee,Partizan air first normal attack
+ヒット,2984060434,Melee,Partizan air second normal attack
+ヒット,3685709820,Melee,Partizan air third normal attack
 ステップアタック,998183821,Melee,Partisan Step
 スライドシェイカー,3227905532,PA,Spin
 スライドシェイカー,2058300958,PA,final
@@ -210,10 +237,13 @@ Enemy Thrown,2164805818,PA,beatdown
 サーベラスダンス零式,1181894001,,サーベラスダンス finish (crafted)
 ワイルドラウンド,1667539503,PA,ワイルドラウンド
 カイザーライズ,4083089437,PA,カイザーライズ
-アダプトスピン ,4083089500,PA,アダプトスピン 
+アダプトスピン ,4083089500,PA,アダプトスピン
 ヒット,3318968327,Melee,Gunslash M1
 ヒット,1408075886,Melee,Gunslash M2
 ヒット,2364486899,Melee,Gunslash M3
+ヒット,1405961624,Melee,Gunslash (striking mode) air first normal attack
+ヒット,3342919411,Melee,Gunslash (striking mode) air second normal attack
+ヒット,3800743499,Melee,Gunslash (striking mode) air third normal attack
 ヒット,2125202658,Ranged,Gunslash R1
 ヒット,4276570552,Ranged,Gunslash R2
 ヒット,2867139739,Ranged,Gunslash R3
@@ -225,7 +255,8 @@ Enemy Thrown,2164805818,PA,beatdown
 トライインパクト零式,1585984604,PA,トライインパクト crafted ヒット
 レイジダンス,4069575100,PA,レイジダンス stabs
 レイジダンス,2375995786,PA,レイジダンス shot
-エインラケーテン,1803337451,PA,エインラケーテン swing
+エインラケーテン,1803337451,PA,エインラケーテン 打ち上げ
+エインラケーテン,4080719295,PA,エインラケーテン 射撃
 サーペントエア,3780905363,PA,サーペントエア ヒットs
 サーペントエア,3959349048,PA,サーペントエア final ヒット
 エイミングショット,1657878962,PA,エイミングショット (uncharged)
@@ -247,6 +278,9 @@ Enemy Thrown,2164805818,PA,beatdown
 ヒット,778603760,Melee,Double Saber 1
 ヒット,2169426261,Melee,Double Saber 2
 ヒット,1915920209,Melee,Double Saber 3
+ヒット,3587443201,Melee,Double Saber air first normal attack
+ヒット,2489626506,Melee,Double Saber air second normal attack
+ヒット,3086213424,Melee,Double Saber air third normal attack
 ステップアタック,422538670,Melee,Double Saber Step
 DS かまいたち,2620269130,Special,level 1
 DS かまいたち,2620268940,Special,level 2
@@ -280,6 +314,9 @@ DS かまいたち,2620269005,Special,level 3
 ヒット,2378312327,Melee,
 ヒット,2378312320,Melee,
 ヒット,2378312321,Melee,
+ヒット,3816723344,Melee,Twin Daggers air first normal attack
+ヒット,1163229184,Melee,Twin Daggers air second normal attack
+ヒット,1893769682,Melee,Twin Daggers air third normal attack
 Tダガースピン,3115487274,Special,Spin 0 gear
 Tダガースピン,3115487275,Special,Spin partial gear
 Tダガースピン,3115487272,Special,Spin full gear
@@ -347,6 +384,9 @@ Tダガースピン,3115487272,Special,Spin full gear
 ヒット,1325529929,Melee,Knuckles 1
 ヒット,1539605878,Melee,Knuckles 2
 ヒット,2996195244,Melee,Knuckles 3
+ヒット,3833651966,Melee,Knuckles air first normal attack
+ヒット,3392788140,Melee,Knuckles air second normal attack
+ヒット,2085169672,Melee,Knuckles air third normal attack
 ステップアタック,1024789612,Melee,Knuckles Step
 ダッキングブロウ,3490454980,PA,
 フリッカージャブ,2220142187,PA,
@@ -374,6 +414,9 @@ Tダガースピン,3115487272,Special,Spin full gear
 ヒット,3146534752,Melee,Katana 1
 ヒット,3146534691,Melee,Katana 2
 ヒット,3146534882,Melee,Katana 3
+ヒット,3103989825,Melee,Katana air first normal attack 
+ヒット,3103990658,Melee,Katana air second normal attack
+ヒット,3103990723,Melee,Katana air third normal attack
 ステップアタック,3106156042,Melee,Katana Step
 カウンター,2700168094,Special,Katana カウンター 1
 カウンター,2700168093,Special,Katana カウンター 2
@@ -407,6 +450,14 @@ Tダガースピン,3115487272,Special,Spin full gear
 グレンテッセン,1776976279,PA,グレンテッセン dash
 グレンテッセン,1522008442,PA,グレンテッセン slash
 カタナコンバット,4259442013,Special,Katana finish megaslash
+ステップアタック,991363414,Melee,DB step attack
+ヒット,990294516,Melee,DB 1st 
+ヒット,990294325,Melee,DB 2nd 
+ヒット,990294387,Melee,DB 3rd 
+ヒット,996054556,Melee,DB 1st air 
+ヒット,996054749,Melee,DB 2nd air 
+ヒット,996054686,Melee,DB 3rd air 
+デュアルブレードスナッチ,1317379950,Melee,Skill Ring
 フォトンブレード,3920319747,Special,フォトンブレード
 フォトンブレード,2866606807,Special,Photon blade fever
 ディストラクトウィング,2674942872,PA,ディストラクトウィング
@@ -487,7 +538,7 @@ Tダガースピン,3115487272,Special,Spin full gear
 チェイスアロウ,294264342,PA,チェイスアロウ
 ヒット,1856399071,Ranged,Rifle shot
 ヒット,220156466,Ranged,Rifle Diveroll shoot
-ヒット,713142898,Special,Weak bullet ヒット
+ヒット(ウィークバレット),713142898,Special,Weak bullet ヒット
 ピアッシングシェル,220056925,PA,ピアッシングシェル
 グレネードシェル,220057357,PA,グレネードシェル
 ワンポイント,220057548,PA,ワンポイント
@@ -506,6 +557,7 @@ Tダガースピン,3115487272,Special,Spin full gear
 エンドアトラクト,2285537907,PA,エンドアトラクト (half charge)
 エンドアトラクト,2285538736,PA,エンドアトラクト (full charge)
 グラビティボム,3695311812,Special,グラビティボム
+スタングレネード,506640607,Special,スタングレネード
 ヒット,594271163,Ranged,First
 ヒット,594271098,Ranged,Second
 ヒット,594270780,Ranged,Third
@@ -527,12 +579,15 @@ Tダガースピン,3115487272,Special,Spin full gear
 ヒット,3132894402,Ranged,First attack (4x)
 ヒット,3132894403,Ranged,Partial gear
 ヒット,3132894401,Ranged,Full gear
+ヒット,3132894400,Ranged,Twin Machineguns first normal attack max gear
 ヒット,1923738865,Ranged,Second attack (4x)
 ヒット,1923738870,Ranged,Partial gear
 ヒット,1923738868,Ranged,Full gear
+ヒット,1923738871,Ranged,Twin Machineguns second normal attack max gear
 ヒット,1901223401,Ranged,Third attack (5x)
 ヒット,1901223406,Ranged,Partial gear
 ヒット,1901223404,Ranged,Full gear
+ヒット,1901223407,Ranged,Twin Machineguns' left gun third normal attack max gear
 ヒット,2297353124,Ranged,Dive roll shoot
 ヒット,2297352795,Ranged,Partial gear
 ヒット,2297352794,Ranged,Full gear
@@ -643,21 +698,10 @@ Tダガースピン,3115487272,Special,Spin full gear
 ヴィントジーカー,3958422470,PA,Vinto (kick)
 ヴィントジーカー,1528400162,PA,Vinto (kick half gear)
 ヴィントジーカー,598735040,PA,Vinto (kick full gear)
-ブーストキック,85303029,Special,Tokyo speed-pad kick 1
-ブーストキック,85302966,Special,Tokyo speed-pad kick 2
-ブーストキック,85303031,Special,Tokyo speed-pad kick 3
 ヒット,4065469038,Melee,Baton attack
-トリムスタッブ,4093858806,PA,トリムスタッブ
-トリムスパイラル,2211899418,PA,トリムスパイラル (uncharged)
-トリムスパイラル,2211899483,PA,トリムスパイラル (charge lv.1)
-トリムスパイラル,2211900312,PA,トリムスパイラル (charge lv.2)
-トリムスパイラル,926861457,PA,トリムスパイラル (トリムシャウト & charge lv.2)
-トリムバレット,4238918539,PA,トリムバレット
-トリムシャウト,4093858743,PA,トリムシャウト
-トリムスラッシュ,4093858613,PA,トリムスラッシュ
-ヒット,487482498,Melee,Torim auto-attack 1
-ヒット,487482435,Melee,Torim auto-attack 2
-ヒット,487489051,Melee,Torim auto-attack 3
+ヒット,2785585589,Melee,Wanda auto-attack 1
+ヒット,2785585652,Melee,Wanda auto-attack 2
+ヒット,2785585714,Melee,Wanda auto-attack 3
 ワンダアサルト,933681441,PA,ワンダアサルト
 ワンダブレイク,3960069561,PA,ワンダブレイク
 ワンダショック,3960069496,PA,ワンダショック
@@ -665,15 +709,63 @@ Tダガースピン,3115487272,Special,Spin full gear
 ワンダパルサー,4223323079,PA,ワンダパルサー
 ワンダスライサー,2918501417,PA,ワンダスライサー
 ワンダスライサー,2918501480,PA,ワンダスライサー
-ヒット,2785585589,Melee,Wanda auto-attack 1
-ヒット,2785585652,Melee,Wanda auto-attack 2
-ヒット,2785585714,Melee,Wanda auto-attack 3
+ヒット,487482498,Melee,Torim auto-attack 1
+ヒット,487482435,Melee,Torim auto-attack 2
+ヒット,487489051,Melee,Torim auto-attack 3
+トリムスタッブ,4093858806,PA,トリムスタッブ
+トリムスパイラル,2211899418,PA,トリムスパイラル (uncharged)
+トリムスパイラル,2211899483,PA,トリムスパイラル (charge lv.1)
+トリムスパイラル,2211900312,PA,トリムスパイラル (charge lv.2)
+トリムスパイラル,926005986,PA,トリムスパイラル (charge lv.1 shout buff)
+トリムスパイラル,926861457,PA,トリムスパイラル (charge lv.2 shout buff) (仮)
+トリムバレット,4238918472,PA,トリムバレット shout buff dot? (仮)
+トリムバレット,4238918539,PA,トリムバレット Dot
+トリムバレット,2052351310,PA,トリムバレット Hit 1 ?(仮)
+トリムバレット,672081019,PA,トリムバレット  Hit 2 ?(仮)
+トリムシャウト,4093858743,PA,トリムシャウト
+トリムスラッシュ,4093858613,PA,トリムスラッシュ
+トリムスラッシュ,672024361,PA,トリムスラッシュ shout buff? (仮)
+ヒット,639929291,Melee,Sally auto-attack 1
 サリィプロード,2156897712,PA,サリィプロード
 サリィテリトリー,493814577,PA,サリィテリトリー
 サリィテリトリー,493814640,PA,サリィテリトリー
 サリィカース,3581010262,PA,サリィカース
 サリィフォール,385030021,PA,サリィフォール
 サリィチェイサー,385050960,PA,サリィチェイサー
-ヒット,639929291,Melee,Sally auto-attack 1
-Clobber,3104220402,Special,Mag action - Clobber
-Clobber,3296842070,Special,Mag action - Clobber
+ヒット,2944355330,Melee,Marron auto-attack 1
+ヒット,2944352598,Melee,Marron auto-attack 2
+ヒット,2944352663,Melee,Marron auto-attack 3
+マロンストライク,3595323408,PA,Marron Strike 0～2 hit
+マロンストライク,3595323990,PA,Marron Strike 3～5 hit
+マロンストライク,3595323799,PA,Marron Strike 6 hit (Max)
+マロンブレイク,115059488,PA,Marron Break
+マロンチェイサー,115059427,PA,Marron Chaser
+マロンカース,1099252288,PA,Marron Curse Hit
+マロンカース,1102156943,PA,Marron  Curse Dot
+ヒット,2920779330,Melee,Melon auto-attack 1
+ヒット,2920778756,Melee,Melon auto-attack 2
+ヒット,2920778949,Melee,Melon auto-attack 3
+メロンストライク,3889466000,PA,Melon Strike 0 hit
+メロンストライク,3889465937,PA,Melon Strike 1 hit
+メロンストライク,3889465879,PA,Melon Strike 2 hit (Max)
+メロンブレイク,3771080959,PA,Melon Break
+メロンチェイサー,3771080766,PA,Melon Chaser
+メロンカース,745748621,PA,Melon Curse Hit
+メロンカース,745791480,PA,Melon Curse Dot
+マロン&メロン爆発死,3460765776,Damage,ストライク後のペットをkillするダメージ
+マロン&メロン暴発,1160289435,Damage,PCへのダメージ
+打撃/アタック,2667138551,Special,Mag action
+射撃/雷炸裂弾,3126711672,Special,Mag action 雷炸裂弾(R-ATK/Exploding Lightning Bullet)
+射撃/炎炸裂弾,867373469,Special,Mag action (R-ATK Exploding Fire Bullet)
+法撃/フォイエ,1049123664,Special,Mag action (T-ATK Foie)
+法撃/グランツ,1886571787,Special,Mag action (T-ATK Grants)
+SP打撃/乱舞,3104220402,Special,Mag action - 乱舞(S-ATK SP/Clobber)
+SP打撃/乱舞,3296842070,Special,Mag action - 乱舞(S-ATK SP/Clobber)
+SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
+ユリウス・ニフタ,764702094,Special,Photon Blast (Julius Nifta)no chain
+ブーストキック,85303029,Special,Tokyo speed-pad kick level 1
+ブーストキック,85302966,Special,Tokyo speed-pad kick level 2
+ブーストキック,85303031,Special,Tokyo speed-pad kick level 3
+ブーストキック,85301612,Special,Tokyo speed-pad kick level 1 on cars
+ブーストキック,85302966,Special,Tokyo speed-pad kick level 2 on cars
+ブーストキック,85303031,Special,Tokyo speed-pad kick level 3 on cars
