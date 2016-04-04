@@ -5,7 +5,7 @@
 ヒット,439463649,Melee,素手 air second normal attack
 ヒット,2213730805,Melee,素手 air third normal attack
 ステップアタック,2071807444,Melee,素手 ステップアタック
-素手,3085782811,PA,Unarmed
+ダッキングブロウ(素手),3085782811,PA,Unarmed
 ヒット,1698836726,Melee,Rod 1
 ヒット,1698835954,Melee,Rod 2
 ヒット,1698835891,Melee,Rod 3
@@ -160,7 +160,7 @@ Enemy Thrown,2164805818,PA,beatdown
 ギルティブレイク,785070206,PA,half charge 2
 ギルティブレイク,3096936719,PA,full charge 1
 ギルティブレイク,297995916,PA,full charge 2
-サクリファイスバイト,526157945,PA,サクリファイスバイト "latch"
+サクリファイスバイト,526157945,PA,サクリファイスバイト latch
 サクリファイスバイト,2275427188,PA,サクリファイスバイト charges
 サクリファイスバイト,985472180,PA,サクリファイスバイト short-charge
 サクリファイスバイト,2606728976,PA,サクリファイスバイト smack
@@ -316,6 +316,15 @@ DS かまいたち,2620269005,Special,level 3
 ヒット,3816723344,Melee,Twin Daggers air first normal attack
 ヒット,1163229184,Melee,Twin Daggers air second normal attack
 ヒット,1893769682,Melee,Twin Daggers air third normal attack
+ヒット,3816723347,Melee,Twin Daggers 1 gear air first attack
+ヒット,1163229191,Melee,Twin Daggers 1 gear air second attack
+ヒット,1893769685,Melee,Twin Daggers 1 gear air third attack
+ヒット,3816723346,Melee,Twin Daggers 2 gear air first attack
+ヒット,1163229190,Melee,Twin Daggers 2 gear air second attack
+ヒット,1893769684,Melee,Twin Daggers 2 gear air third attack
+ヒット,3816723349,Melee,Twin Daggers 3 gear air first attack
+ヒット,1163229189,Melee,Twin Daggers 3 gear air second attack
+ヒット,1893769687,Melee,Twin Daggers 3 gear air third attack
 Tダガースピン,3115487274,Special,Spin 0 gear
 Tダガースピン,3115487275,Special,Spin partial gear
 Tダガースピン,3115487272,Special,Spin full gear
@@ -333,6 +342,9 @@ Tダガースピン,3115487272,Special,Spin full gear
 スケアフーガ,1193225276,PA,スケアフーガ first partial gear
 スケアフーガ,2790036906,PA,スケアフーガ second partial gear
 スケアフーガ,721495004,PA,スケアフーガ third partial gear
+スケアフーガ,1193225278,PA,Scar Fugue 3 gear grab
+スケアフーガ,2790036908,PA,Scar Fugue 3 gear second hit
+スケアフーガ,721495002,PA,Scar Fugue 3 gear last hit
 スケアフーガ,1193225279,PA,スケアフーガ full gear
 スケアフーガ,2790036907,PA,スケアフーガ second full gear
 スケアフーガ,721495003,PA,スケアフーガ third full gear
@@ -344,6 +356,8 @@ Tダガースピン,3115487272,Special,Spin full gear
 ダークスケルツォ,2115627931,PA,ダークスケルツォ final 0 gear
 ダークスケルツォ,2711968272,PA,ダークスケルツォ first two ヒットs partial
 ダークスケルツォ,2115627930,PA,ダークスケルツォ final partial
+ダークスケルツォ,2711968286,PA,Dark Scherzo 3 gear first two hits
+ダークスケルツォ,2115627908,PA,Dark Scherzo 3 gear final hit
 ダークスケルツォ,2711968287,PA,ダークスケルツォ first two full gear
 ダークスケルツォ,2115627909,PA,ダークスケルツォ final full gear
 クイックマーチ,3438453623,PA,クイックマーチ
@@ -363,12 +377,16 @@ Tダガースピン,3115487272,Special,Spin full gear
 オウルケストラー,1362404325,PA,rchestra
 オウルケストラー,120509751,PA,OOOOOOOOOOOO
 オウルケストラー,1362404326,PA,rchestra!
+オウルケストラー,120509752,PA,Orchestra 3 gear
 ブラッディサラバンド,1022160397,PA,ブラッディサラバンド pt1
 ブラッディサラバンド,2745888524,PA,ブラッディサラバンド pt2
 ブラッディサラバンド,1022160396,PA,ブラッディサラバンド pt1 partial g
 ブラッディサラバンド,2745888515,PA,ブラッディサラバンド pt2 partial g
 ブラッディサラバンド,1022160394,PA,ブラッディサラバンド pt1 full g
 ブラッディサラバンド,2745888513,PA,ブラッディサラバンド pt2 full g
+ブラッディサラバンド,1185927985,PA,Bloody Sarabande no gear second part
+ブラッディサラバンド,1022160395,PA,Bloody Sarabande 2 gear air first part
+ブラッディサラバンド,2745888514,PA,Bloody Sarabande 2 gear air second part
 ファセットフォリア,2569859798,PA,ファセットフォリア start
 ファセットフォリア,3225817327,PA,ファセットフォリア combo
 ファセットフォリア,1460149680,PA,ファセットフォリア finish
@@ -378,8 +396,11 @@ Tダガースピン,3115487272,Special,Spin full gear
 ファセットフォリア,2569859796,PA,FF start full gear
 ファセットフォリア,3225817325,PA,FF combo full gear
 ファセットフォリア,1460149686,PA,FF finish full gear
+ファセットフォリア,2569859797,PA,Facet Folia full gear grab
+ファセットフォリア,3225817234,PA,Facet Folia full gear second part
 フォールノクターン,1622238417,PA,フォールノクターン partial gear
 フォールノクターン,1622238480,PA,フォールノクターン full gear
+フォールノクターン,1622238547,PA,Fall Nocturne full gear
 ヒット,1325529929,Melee,Knuckles 1
 ヒット,1539605878,Melee,Knuckles 2
 ヒット,2996195244,Melee,Knuckles 3
@@ -417,10 +438,13 @@ Tダガースピン,3115487272,Special,Spin full gear
 ヒット,3103990658,Melee,Katana air second normal attack
 ヒット,3103990723,Melee,Katana air third normal attack
 ステップアタック,3106156042,Melee,Katana Step
-カウンター,2700168094,Special,Katana カウンター 1
-カウンター,2700168093,Special,Katana カウンター 2
-カウンター,1987114712,Special,Katana カウンター 3
-カウンター,4184015666,Special,Katana カウンター 4
+カウンター,1987114712,Special,Katana Counter Edge no gear-1 gear (ring uses this as well)
+カウンター,2700168094,Special,Katana Counter hit no gear
+カウンター,2700168093,Special,Katana Counter hit 1 gear
+カウンター,4136181738,Special,Katana Counter hit 2 gear
+カウンター,4184015666,Special,Katana Counter Edge 2-max gear
+カウンター,4143333980,Special,Katana Counter hit max gear (ring uses this as well)
+カウンター,2700168092,Special,something Katana Counter related?
 ツキミサザンカ,3148575588,PA,ツキミサザンカ
 ゲッカザクロ,215665118,PA,ゲッカザクロ downswing
 ゲッカザクロ,2160628938,PA,Gekka upswing
@@ -435,6 +459,8 @@ Tダガースピン,3115487272,Special,Spin full gear
 ハトウリンドウ,273071015,PA,Hatou charged close
 ハトウリンドウ,2209628291,PA,Hatou charged medium
 ハトウリンドウ,1651702934,PA,Hatou charged SWEET SPOOOOT
+ハトウリンドウ,106956039,PA,Hatou Rindou charged first hit
+ハトウリンドウ,168167719,PA,Hatou Rindou charged second hit
 シュンカシュンラン,2585461118,PA,Shunka uncharged
 シュンカシュンラン,3513096229,PA,Shunka charged start
 シュンカシュンラン,2264839669,PA,Shunka charged main combo
@@ -557,6 +583,7 @@ Tダガースピン,3115487272,Special,Spin full gear
 エンドアトラクト,2285538736,PA,エンドアトラクト (full charge)
 グラビティボム,3695311812,Special,グラビティボム
 スタングレネード,506640607,Special,スタングレネード
+アッパートラップ,2460168075,Special,Upper trap (Ra skill)
 ヒット,594271163,Ranged,First
 ヒット,594271098,Ranged,Second
 ヒット,594270780,Ranged,Third
@@ -761,13 +788,41 @@ Tダガースピン,3115487272,Special,Spin full gear
 打撃/アタック,2667138551,Special,Mag action
 射撃/雷炸裂弾,3126711672,Special,Mag action 雷炸裂弾(R-ATK/Exploding Lightning Bullet)
 射撃/炎炸裂弾,867373469,Special,Mag action (R-ATK Exploding Fire Bullet)
+射撃/氷炸裂弾,1542931456,Special,Mag action (R-ATK Exploding Ice Bullet)
 法撃/フォイエ,1049123664,Special,Mag action (T-ATK Foie)
 法撃/グランツ,1886571787,Special,Mag action (T-ATK Grants)
+法撃/メギド,1059126347,Special,Mag action (T-ATK Megid)
+Mag hit,546125641,Special,Mag action (S-ATK Upper)
 SP打撃/乱舞,3104220402,Special,Mag action - 乱舞(S-ATK SP/Clobber)
 SP打撃/乱舞,3296842070,Special,Mag action - 乱舞(S-ATK SP/Clobber)
 SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
 ユリウス・ニフタ,764702094,Special,Photon Blast (Julius Nifta)no chain
-ブーストキック,85303029,Special,Tokyo speed-pad kick level 1
-ブーストキック,85302966,Special,Tokyo speed-pad kick level 2
-ブーストキック,85303031,Special,Tokyo speed-pad kick level 3
+ユリウス・ニフタ,764702093,Special,PB Julius Nifta 2-chain
+ユリウス・ニフタ,764702092,Special,PB Julius Nifta 3-chain
+ユリウス・ニフタ,764702091,Special,PB Julius Nifta 4-chain
+アイアス・イメラ,4274907792,Special,PB Ajax Imera no-chain+1-chain+2-chain
+アイアス・イメラ,2379589576,Special,PB Ajax Imera 4-chain
+ヘリクス・プロイ,2004640116,Special,PB Helix Proi no-chain+1-chain+2-chain
+ヘリクス・プロイ,1792224906,Special,PB Helix Proi 4-chain
+ブーストキック,85301614,Special,Tokyo speed-pad kick level 1
+ブーストキック,85302964,Special,Tokyo speed-pad kick level 2 
+ブーストキック,85303029,Special,Tokyo speed-pad kick level 3
 ブーストキック,85301612,Special,Tokyo speed-pad kick level 1 on cars
+ブーストキック,85302966,Special,Tokyo speed-pad kick level 2 on cars
+ブーストキック,85303031,Special,Tokyo speed-pad kick level 3 on cars
+ガトリングトーチ,1852253343,Special,Turret (for future reference)
+拘束銃座,1358461404,Special,Rodos Grapple Turret (for future reference)
+大砲,2414748436,Special,Facility Cannon (for future reference)
+フォトンキャノン,1954812953,Special,Photon Cannon uncharged (for future reference)
+フォトンキャノン,2822784832,Special,Photon Cannon charged (for future reference)
+禍縛の矢,791327364,Special,Binding Arrow Turret (this might not be correct, for future reference)
+フォトン粒子砲,3339644659,Special,Photon Particle turret (for future reference)
+AIS,119505187,Special,A.I.S rifle (for future reference)
+AIS,80047171,Special,A.I.S dash melee (for future reference)
+AIS,79964675,Special,A.I.S gap closer attack (for future reference)
+AIS,434705298,Special,A.I.S rockets (for future reference)
+AIS,4081218683,Special,A.I.S mob freezing attack (for future reference)
+AIS,1460054769,Special,A.I.S cannon (for future reference)
+AIS,79965782,Special,A.I.S melee first attack (for future reference)
+AIS,79965783,Special,A.I.S melee second attack (for future reference)
+AIS,79965784,Special,A.I.S melee third attack (for future reference)
