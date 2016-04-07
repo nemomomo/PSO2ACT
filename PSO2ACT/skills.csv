@@ -10,6 +10,7 @@
 ヒット,1698835954,Melee,Rod 2
 ヒット,1698835891,Melee,Rod 3
 ロッドシュート,82081592,Melee,Rod Shoot
+フリーズイグニッション,3533119346,Special,Freeze Ignition (Fo skill)
 ヒット,603769614,Melee,Talis first normal attack
 ヒット,603769679,Melee,Talis second normal attack
 ヒット,603769484,Melee,Talis third normal attack
@@ -104,14 +105,21 @@
 フォメルギオン,1671704953,Tech,???
 ザンディオン,481495314,Tech,???
 ザンディオン,2644417114,Tech,???
-ポイズン,1739789664,Status,ポイズン status Lv3
-ポイズン,1739789667,Status,ポイズン status Lv4
-バーン,2505928696,Status,バーン status Lv3
-バーン,2505928584,Status,バーン status LV4
+バーン,2505928570,Status,Burn Status Effect (level 1)
+バーン,2505928505,Status,Burn Status Effect (level 2)
+バーン,2505928696,Status,Burn Status Effect (level 3)
+バーン,2505928584,Status,Burn Status Effect (level 4)
+バーン,2505927753,Status,Burn Status Effect (level 5)
+ポイズン,1739789695,Status,Poison Status Effect (level 1)
+ポイズン,1739789694,Status,Poison Status Effect (level 2)
+ポイズン,1739789665,Status,Poison Status Effect (level 3)
+ポイズン,1739789664,Status,Poison Status Effect (level 4)
+ポイズン,1739789667,Status,Poison Status Effect (level 5)
 ヒット,1775819901,Melee,Wand
 ヒット,1775820734,Melee,Wand
 ヒット,1775820799,Melee,Wand
 ヒット,1777037248,Melee,Wand (step attack)
+ポイズンイグニッション,2532986093,Special,Poison Ignition (Te skill)
 ウォンドギア,2614865725,Tech,ウォンドギア (Ice)
 ウォンドギア,1479548096,Tech,ウォンドギア (Fire)
 ウォンドギア,789614525,Tech,ウォンドギア (Thunder)
@@ -164,11 +172,12 @@ Enemy Thrown,2164805818,PA,beatdown
 サクリファイスバイト,2275427188,PA,サクリファイスバイト charges
 サクリファイスバイト,985472180,PA,サクリファイスバイト short-charge
 サクリファイスバイト,2606728976,PA,サクリファイスバイト smack
-イグナイトパリング,3096775537,PA,イグナイトパリング first four strikes
+イグナイトパリング,3096775537,PA,イグナイトパリング first four strikes (parried version uses this as well)
 イグナイトパリング,54200585,PA,イグナイトパリング final two strikes
-イグナイトパリング,498184876,PA,first hit?
+イグナイトパリング,498184876,PA,Ignition Parry parried first hit
 イグナイトパリング,915561415,PA,last two hits?
 イグナイトパリング,915578993,PA,last two hits?
+イグナイトパリング,915579056,PA,Ignition Parry parried last 2 hits
 ヒット,2285482403,Melee,Partisan 1
 ヒット,2226608029,Melee,Partisan 2
 ヒット,3208780153,Melee,Partisan 3
@@ -274,6 +283,7 @@ Enemy Thrown,2164805818,PA,beatdown
 シュトレツヴァイ,3169780679,PA,シュトレツヴァイ melee startup
 シュトレツヴァイ,3169781527,PA,シュトレツヴァイ melee ヒットs (+range twirl)
 シュトレツヴァイ,3169781648,PA,シュトレツヴァイ melee finisher
+シュトレツヴァイ,3169644227,PA,Ranged version (spin)
 ヒット,778603760,Melee,Double Saber 1
 ヒット,2169426261,Melee,Double Saber 2
 ヒット,1915920209,Melee,Double Saber 3
@@ -378,15 +388,16 @@ Tダガースピン,3115487272,Special,Spin full gear
 オウルケストラー,120509751,PA,OOOOOOOOOOOO
 オウルケストラー,1362404326,PA,rchestra!
 オウルケストラー,120509752,PA,Orchestra 3 gear
+オウルケストラー,1362404327,PA,Orchestra 3 gear finish
 ブラッディサラバンド,1022160397,PA,ブラッディサラバンド pt1
 ブラッディサラバンド,2745888524,PA,ブラッディサラバンド pt2
 ブラッディサラバンド,1022160396,PA,ブラッディサラバンド pt1 partial g
 ブラッディサラバンド,2745888515,PA,ブラッディサラバンド pt2 partial g
 ブラッディサラバンド,1022160394,PA,ブラッディサラバンド pt1 full g
 ブラッディサラバンド,2745888513,PA,ブラッディサラバンド pt2 full g
-ブラッディサラバンド,1185927985,PA,Bloody Sarabande no gear second part
-ブラッディサラバンド,1022160395,PA,Bloody Sarabande 2 gear air first part
-ブラッディサラバンド,2745888514,PA,Bloody Sarabande 2 gear air second part
+ブラッディサラバンド,1185927985,PA,Bloody Sarabande no gear ground second part
+ブラッディサラバンド,1022160395,PA,Bloody Sarabande 2 gear first part
+ブラッディサラバンド,2745888514,PA,Bloody Sarabande 2 gear second part
 ファセットフォリア,2569859798,PA,ファセットフォリア start
 ファセットフォリア,3225817327,PA,ファセットフォリア combo
 ファセットフォリア,1460149680,PA,ファセットフォリア finish
@@ -583,7 +594,12 @@ Tダガースピン,3115487272,Special,Spin full gear
 エンドアトラクト,2285538736,PA,エンドアトラクト (full charge)
 グラビティボム,3695311812,Special,グラビティボム
 スタングレネード,506640607,Special,スタングレネード
+ポイズントラップ,3727926333,Special,Poison Trap (Ra skill)
 アッパートラップ,2460168075,Special,Upper trap (Ra skill)
+バインドバレット,192041748,Special,Bind Bullet (Ra skill)
+ミラージュショット,3433218069,Special,Mirage Shot (Ra skill)
+パニックショット,1201754534,Special,Panic Shot (Ra skill)
+ジェルンショット,2734794071,Special,Jellen Shot (Ra skill)
 ヒット,594271163,Ranged,First
 ヒット,594271098,Ranged,Second
 ヒット,594270780,Ranged,Third
@@ -620,24 +636,31 @@ Tダガースピン,3115487272,Special,Spin full gear
 ヒット,2594009166,Ranged,S-roll shoot
 ヒット,2594009167,Ranged,Partial gear
 ヒット,2594009160,Ranged,Full gear
+ヒット,2594009161,Ranged,S-Roll hit max gear
 エリアルシューティング,891590654,PA,エリアルシューティング (uncharged kick)
 エリアルシューティング,891590641,PA,Partial gear
 エリアルシューティング,891590640,PA,Full gear
+エリアルシューティング,891590643,PA,Aerial Shooting max gear uncharged
 エリアルシューティング,4004748150,PA,エリアルシューティング (charged launch)
 エリアルシューティング,4004748151,PA,Partial gear
 エリアルシューティング,4004748144,PA,Full gear
+エリアルシューティング,4004748145,PA,Aerial Shooting max gear charged kick
 エリアルシューティング,4004760231,PA,エリアルシューティング (first air ヒット)
 エリアルシューティング,4004760230,PA,Partial gear
 エリアルシューティング,4004760225,PA,Full gear
+エリアルシューティング,4004760224,PA,Aerial Shooting max gear charged first air hit
 エリアルシューティング,4004772370,PA,エリアルシューティング (second air ヒット)
 エリアルシューティング,4004772369,PA,Partial gear
 エリアルシューティング,4004772368,PA,Full gear
+エリアルシューティング,4004772375,PA,Aerial Shooting max gear charged second air hit
 バレットスコール,3463411283,PA,バレットスコール start (uncrafted)
 バレットスコール,3463411282,PA,Partial gear
 バレットスコール,3463411293,PA,Full gear
 バレットスコール,443425897,PA,バレットスコール shots (uncrafted)
 バレットスコール,443425896,PA,Partial gear
 バレットスコール,443425899,PA,Full gear
+バレットスコール零式,3463411292,PA,Bullet Squall crafted kick max gear
+バレットスコール零式,443425898,PA,Bullet Squall crafted shots max gear
 デッドアプローチ,232817712,PA,デッドアプローチ
 デッドアプローチ,232817719,PA,Partial gear
 デッドアプローチ,232817718,PA,Full gear
@@ -645,73 +668,95 @@ Tダガースピン,3115487272,Special,Spin full gear
 メシアタイム,3991628327,PA,メシアタイム (every shot)
 メシアタイム,3991628324,PA,Partial gear
 メシアタイム,3991628325,PA,Full gear
+メシアタイム,3991628330,PA,Messiah Time max gear
 インフィニティファイア,3134942095,PA,インフィニティファイア (initial volley)
 インフィニティファイア,3134942094,PA,Partial gear
 インフィニティファイア,3134942093,PA,Full gear
+インフィニティファイア,3134942092,PA,Infinite Fire max gear
 インフィニティファイア,879653107,PA,インフィニティファイア (final volley)
 インフィニティファイア,879653104,PA,Partial gear
 インフィニティファイア,879653105,PA,Full gear
+インフィニティファイア,879653110,PA,Infinite Fire max gear shotgun
 サテライトエイム,1770510361,PA,サテライトエイム (ヒット 1)
 サテライトエイム,1770510366,PA,Partial gear
 サテライトエイム,1770510367,PA,Full gear
-サテライトエイム,1770510364,PA,Max gear
+サテライトエイム,1770510364,PA,Satellite Aim first blast max gear
 サテライトエイム,2273182629,PA,サテライトエイム (ヒット 2)
 サテライトエイム,2273181786,PA,Partial gear
 サテライトエイム,2273181787,PA,Full gear
-サテライトエイム,2273181784,PA,Max gear
+サテライトエイム,2273181784,PA,Satellite Aim second blast max gear
 エルダーリベリオン,1108337397,PA,エルダーリベリオン (5 ヒットs)
 エルダーリベリオン,1108337396,PA,Partial gear
 エルダーリベリオン,1108337395,PA,Full gear
-エルダーリベリオン,1108337394,PA,Max gear
+エルダーリベリオン,1108337394,PA,Elder Rebellion max gear first 5 hits
 エルダーリベリオン,4042421111,PA,エルダーリベリオン (2 blasts)
 エルダーリベリオン,4042421110,PA,Partial gear
 エルダーリベリオン,4042421105,PA,Full gear
-エルダーリベリオン,4042421104,PA,Max gear
+エルダーリベリオン,4042421104,PA,Elder Rebellion max gear 2 blasts
 エルダーリベリオン,3412194152,PA,エルダーリベリオン (final blast)
 エルダーリベリオン,3412194159,PA,Partial gear
 エルダーリベリオン,3412194158,PA,Full gear
-エルダーリベリオン,3412194157,PA,Max gear
+エルダーリベリオン,3412194157,PA,Elder Rebellion max gear last blast
 リバースタップ,1550097800,PA,リバースタップ
 リバースタップ,1550097807,PA,Partial gear
 リバースタップ,1550097806,PA,Full gear
+リバースタップ,1550097805,PA,Reverse Tap max gear
 ヒールスタッブ,2371693862,PA,ヒールスタッブ (first kick)
 ヒールスタッブ,2371693863,PA,Partial gear
 ヒールスタッブ,2371693860,PA,Full gear
+ヒールスタッブ,2371693861,PA,Heel Stab first kick max gear
 ヒールスタッブ,4134662873,PA,ヒールスタッブ (uncharged second)
 ヒールスタッブ,4134662878,PA,Partial gear
 ヒールスタッブ,4134662879,PA,Full gear
+ヒールスタッブ,4134662876,PA,Heel Stab uncharged second kick max gear
 ヒールスタッブ,1163390941,PA,ヒールスタッブ (charged second)
 ヒールスタッブ,1163390930,PA,Partial gear
 ヒールスタッブ,1163390931,PA,Full gear
+ヒールスタッブ,1163390928,PA,Heel Stab charged second kick max gear
 ヒールスタッブ,148870087,PA,ヒールスタッブ (charged volley)
 ヒールスタッブ,148870086,PA,Partial gear
 ヒールスタッブ,148870081,PA,Full gear
-シフトピリオド,3102409757,PA,シフトピリオド (idk)
-シフトピリオド,3102409758,PA,Partial gear
-シフトピリオド,3102409728,PA,Full gear
-シフトピリオド,2107489028,PA,シフトピリオド (idk)
-シフトピリオド,2107489029,PA,Partial gear
-シフトピリオド,2107489031,PA,Full gear
-シフトピリオド,2928127116,PA,シフトピリオド (idk)
-シフトピリオド,2928127106,PA,Full gear
-シフトピリオド,4206265008,PA,シフトピリオド (idk)
-シフトピリオド,4206265011,PA,Partial gear
-シフトピリオド,4206265013,PA,Full gear
-シフトピリオド,2869490729,PA,シフトピリオド (idk)
-シフトピリオド,2869490728,PA,Partial gear
-シフトピリオド,2869490902,PA,Full gear
+ヒールスタッブ,148870080,PA,Heel Stab charged Volley max gear
+シフトピリオド,3102409757,PA,シフトピリオド no gear
+シフトピリオド,2107489028,PA,シフトピリオド no gear
+シフトピリオド,2928127116,PA,シフトピリオド no gear
+シフトピリオド,4206265008,PA,シフトピリオド no gear
+シフトピリオド,2869490729,PA,シフトピリオド no gear final shot
+シフトピリオド,3102409758,PA,シフトピリオド 1 gear
+シフトピリオド,2107489029,PA,シフトピリオド 1 gear
+シフトピリオド,2928127107,PA,シフトピリオド 1 gear
+シフトピリオド,4206265011,PA,シフトピリオド 1 gear
+シフトピリオド,2869490728,PA,シフトピリオド 1 gear final shot
+シフトピリオド,3102409759,PA,シフトピリオド 2 gear
+シフトピリオド,2107489030,PA,シフトピリオド 2 gear
+シフトピリオド,2928127106,PA,シフトピリオド 2 gear
+シフトピリオド,4206265010,PA,シフトピリオド 2 gear
+シフトピリオド,2869490902,PA,シフトピリオド 2 gear final shot
+シフトピリオド,3102409728,PA,シフトピリオド max gear
+シフトピリオド,2107489031,PA,シフトピリオド max gear
+シフトピリオド,2928127105,PA,シフトピリオド max gear
+シフトピリオド,4206265013,PA,シフトピリオド max gear
 グリムパラージュ,896218141,PA,グリムパラージュ
 グリムパラージュ,896218140,PA,Partial gear
+グリムパラージュ,896218138,PA,Grim Barrage max gear first part
 グリムパラージュ,896218139,PA,Full gear
 グリムパラージュ,1235843178,PA,グリムパラージュ (part 2)
 グリムパラージュ,1235843181,PA,Partial gear
 グリムパラージュ,1235843180,PA,Full gear
+グリムパラージュ,1235843183,PA,Grim Barrage max gear second part
 ヒット,3540874879,Melee,First Attack
 ヒット,2778548652,Melee,Second Attack
 ヒット,3614558463,Melee,Third Attack
 ヒット,798466786,Melee,ステップアタック
 ヒット,2184540187,Melee,Shift Action
 ヒット,1853582271,Special,Jump ヒット
+ワンモアジャンプ,747815998,Special,One More Jump hit (Bo skill)
+エレメンタルバースト,844099599,Special,Fire Elemental Burst (Bo skill)
+エレメンタルバースト,436531970,Special,Ice Elemental Burst (Bo skill)
+エレメンタルバースト,3183103116,Special,Lightning Elemental Burst (Bo skill)
+エレメンタルバースト,3999693063,Special,Wind Elemental Burst (Bo skill)
+エレメンタルバースト,1812915089,Special,Light Elemental Burst (Bo skill)
+エレメンタルバースト,606506553,Special,Dark Elemental Burst (Bo skill)
 ストライクガスト,2440471691,PA,ストライクガスト (uncharged first two)
 ストライクガスト,3982071982,PA,ストライクガスト (uncharged final)
 ストライクガスト,2049018178,PA,ストライクガスト (half charge first three)
@@ -792,7 +837,7 @@ Tダガースピン,3115487272,Special,Spin full gear
 法撃/フォイエ,1049123664,Special,Mag action (T-ATK Foie)
 法撃/グランツ,1886571787,Special,Mag action (T-ATK Grants)
 法撃/メギド,1059126347,Special,Mag action (T-ATK Megid)
-Mag hit,546125641,Special,Mag action (S-ATK Upper)
+打撃/アッパー,546125641,Special,Mag action (S-ATK Upper)
 SP打撃/乱舞,3104220402,Special,Mag action - 乱舞(S-ATK SP/Clobber)
 SP打撃/乱舞,3296842070,Special,Mag action - 乱舞(S-ATK SP/Clobber)
 SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
@@ -815,7 +860,7 @@ SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
 大砲,2414748436,Special,Facility Cannon (for future reference)
 フォトンキャノン,1954812953,Special,Photon Cannon uncharged (for future reference)
 フォトンキャノン,2822784832,Special,Photon Cannon charged (for future reference)
-禍縛の矢,791327364,Special,Binding Arrow Turret (this might not be correct, for future reference)
+禍縛の矢,791327364,Special,Binding Arrow Turret (for future reference)
 フォトン粒子砲,3339644659,Special,Photon Particle turret (for future reference)
 AIS,119505187,Special,A.I.S rifle (for future reference)
 AIS,80047171,Special,A.I.S dash melee (for future reference)
@@ -826,3 +871,4 @@ AIS,1460054769,Special,A.I.S cannon (for future reference)
 AIS,79965782,Special,A.I.S melee first attack (for future reference)
 AIS,79965783,Special,A.I.S melee second attack (for future reference)
 AIS,79965784,Special,A.I.S melee third attack (for future reference)
+AIS,3298256598,Special,A.I.S Weak Bullet (for future reference)
