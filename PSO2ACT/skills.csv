@@ -1,3 +1,4 @@
+Type,ID,Kind,Name
 通常攻撃(素手),3481186334,Melee,素手 first normal attack
 通常攻撃(素手),1578628668,Melee,素手 second normal attack
 通常攻撃(素手),888355388,Melee,素手 third normal attack
@@ -36,6 +37,8 @@
 ラ・バータ,1838809243,Tech,Charged
 サ・バータ,1906247115,Tech,Uncharged
 サ・バータ,3773240682,Tech,Charged1
+サ・バータ,3773212059,Tech,Sabarta charged (crafted?) second hit
+サ・バータ,3773297992,Tech,Sabarta charged (crafted?) third hit
 ナ・バータ,49556873,Tech,Cone
 イル・バータ,3811499950,Tech,Uncharged1
 イル・バータ,1100223160,Tech,Charged1
@@ -97,6 +100,7 @@
 ラ・メギド,2458729274,Tech,
 サ・メギド,757530403,Tech,
 サ・メギド,3731229904,Tech,
+メギバース,893379015,Tech,
 ナ・メギド,803375681,Tech,
 ナ・メギド,2368738938,Tech,
 イル・メギド,3791794807,Tech,
@@ -144,8 +148,12 @@
 ライジングエッジ,1224723795,PA,Spin
 ツイスターフォール,1224723730,PA,Spin
 ツイスターフォール,3096797813,PA,Slam
+ツイスターフォール,3096804787,PA,Twister Fall second slam part
+ツイスターフォール,3096805226,PA,Twister Fall third slam part
 ツイスターフォール零式,3096804398,PA,crafted spin
 ツイスターフォール零式,1227789065,PA,crafted slam
+ツイスターフォール零式,1227789258,PA,Twister Fall crafted second slam part
+ツイスターフォール零式,1227788826,PA,Twister Fall crafted third slam part
 ノヴァストライク,3096784224,PA,1st
 ノヴァストライク,3096784697,PA,2nd
 ノヴァストライク,3034360175,PA,3rd
@@ -187,9 +195,12 @@ Enemy Thrown,2164805818,PA,beatdown
 通常攻撃(パルチザン),2984060434,Melee,Partizan air second normal attack
 通常攻撃(パルチザン),3685709820,Melee,Partizan air third normal attack
 ステップアタック(パルチザン),998183821,Melee,Partisan Step
+スライドシェイカー,636978853,PA,Slide Shaker spin no gear
+スライドシェイカー,1520282204,PA,Slide Shaker final hit no gear
 スライドシェイカー,3227905532,PA,Spin
 スライドシェイカー,2058300958,PA,final
 スピードレイン,2059941313,PA,
+スピードレイン,2526158104,PA,Speed Rain no gear
 ライジングフラッグ,2304899440,PA,ライジングフラッグ first ヒット no gear
 ライジングフラッグ,1539563132,PA,ライジングフラッグ second ヒット no gear
 ライジングフラッグ,4126118223,PA,ライジングフラッグ first ヒット with gear
@@ -344,10 +355,10 @@ Tダガースピン,3115487272,Special,Spin full gear
 レイジングワルツ,238277154,PA,レイジングワルツ 0 gear
 レイジングワルツ,238277155,PA,レイジングワルツ 1 gear
 レイジングワルツ,238277152,PA,レイジングワルツ 2 gear
-シュートポルカ,2053605232,PA,シュートポルカ "stage 0" gear
-シュートポルカ,2053605233,PA,シュートポルカ "stage 1" gear
-シュートポルカ,2053605246,PA,シュートポルカ "stage 2" gear
-シュートポルカ,2053605247,PA,シュートポルカ "stage 3" gear
+シュートポルカ,2053605232,PA,シュートポルカ stage 0 gear
+シュートポルカ,2053605233,PA,シュートポルカ stage 1 gear
+シュートポルカ,2053605246,PA,シュートポルカ stage 2 gear
+シュートポルカ,2053605247,PA,シュートポルカ stage 3 gear
 スケアフーガ,1193225277,PA,スケアフーガ first ヒット 0 gear
 スケアフーガ,2790036905,PA,スケアフーガ second ヒット 0 gear
 スケアフーガ,721495005,PA,スケアフーガ third ヒット 0 gear
@@ -360,10 +371,10 @@ Tダガースピン,3115487272,Special,Spin full gear
 スケアフーガ,1193225279,PA,スケアフーガ full gear
 スケアフーガ,2790036907,PA,スケアフーガ second full gear
 スケアフーガ,721495003,PA,スケアフーガ third full gear
-ワイルドラプソディ,3998547224,PA,ワイルドラプソディ "stage 0" gear
-ワイルドラプソディ,3998547225,PA,ワイルドラプソディ "stage 1" gear
-ワイルドラプソディ,3998547226,PA,ワイルドラプソディ "stage 2" gear
-ワイルドラプソディ,3998547227,PA,ワイルドラプソディ "stage 3" gear
+ワイルドラプソディ,3998547224,PA,ワイルドラプソディ stage 0 gear
+ワイルドラプソディ,3998547225,PA,ワイルドラプソディ stage 1 gear
+ワイルドラプソディ,3998547226,PA,ワイルドラプソディ stage 2 gear
+ワイルドラプソディ,3998547227,PA,ワイルドラプソディ stage 3 gear
 ダークスケルツォ,2711968273,PA,ダークスケルツォ first two ヒットs 0 gear
 ダークスケルツォ,2115627931,PA,ダークスケルツォ final 0 gear
 ダークスケルツォ,2711968272,PA,ダークスケルツォ first two ヒットs partial
@@ -775,6 +786,7 @@ Tダガースピン,3115487272,Special,Spin full gear
 ヴィントジーカー,2398433897,PA,Vinto (explode any gear)
 ヴィントジーカー,3958422470,PA,Vinto (kick)
 ヴィントジーカー,1528400162,PA,Vinto (kick half gear)
+ヴィントジーカー,3849186397,PA,Vinto Gigue (full gear explosion)
 ヴィントジーカー,598735040,PA,Vinto (kick full gear)
 通常攻撃(タクト),4065469038,Melee,Baton attack
 通常攻撃(ワンダ),2785585589,Melee,Wanda auto-attack 1
@@ -832,6 +844,14 @@ Tダガースピン,3115487272,Special,Spin full gear
 メロンカース,745791480,PA,Melon Curse Dot
 マロン&メロン爆発死,3460765776,Damage,ストライク後のペットをkillするダメージ
 マロン&メロン暴発,1160289435,Damage,PCへのダメージ
+通常攻撃(ラッピー),2042365716,Melee,Rappy (pet) normal attack
+ラッピーメロディー,12316684,PA,Rappy Melody (pet)
+ラッピードロップ,1380676151,PA,Rappy Drop (pet)
+ラッピーキャノン,1380677110,PA,Rappy Cannon (pet)
+ラッピーソニック,401389881,PA,Rappy Sonic (pet)
+ラッピーエンド,1793658679,PA,Rappy End stage 1 (pet)
+ラッピーエンド,1793658742,PA,Rappy End stage 2 (pet)
+ラッピーエンド,1793658549,PA,Rappy End stage 3 (pet)
 通常攻撃(ヴィオラ),1596394370,Melee,ヴィオラ first normal attack
 通常攻撃(ヴィオラ),1596394307,Melee,ヴィオラ second normal attack
 通常攻撃(ヴィオラ),1596393984,Melee,ヴィオラ third normal attack
@@ -850,28 +870,56 @@ Tダガースピン,3115487272,Special,Spin full gear
 打撃/アタック,2667138551,Special,Mag action (S-ATK Attack)
 打撃/ブロー,3296842070,Special,Mag action (S-ATK Blow)
 打撃/アッパー,546125641,Special,Mag action (S-ATK Upper)
-射撃/雷炸裂弾,3126711672,Special,Mag action 雷炸裂弾(R-ATK/Exploding Lightning Bullet)
+射撃/炎通常弾,1810252617,Special,Mag action (R-ATK Fire Bullet)
+射撃/氷通常弾,1509329819,Special,Mag action (R-ATK Ice Bullet)
+射撃/雷通常弾,887429903,Special,Mag action (R-ATK Lightning Bullet)
+射撃/風通常弾,1747262548,Special,Mag action (R-ATK Wind Bullets)
+射撃/光通常弾,3303318723,Special,Mag action (R-ATK Light Bullet)
+射撃/闇通常弾,1811866223,Special,Mag action (R-ATK Dark Bullet)
+射撃/炎貫通弾,183890233,Special,Mag action (R-ATK Piercing Fire Bullet)
+射撃/氷貫通弾,3146527639,Special,Mag action (R-ATK Piercing Ice Bullet)
+射撃/雷貫通弾,2042405421,Special,Mag action (R-ATK Piercing Lightning Bullet)
+射撃/風貫通弾,195905495,Special,Mag action (R-ATK Piercing Wind Bullet)
+射撃/光貫通弾,2373460025,Special,Mag action (R-ATK Piercing Light Bullet)
+射撃/闇貫通弾,196570118,Special,Mag action (R-ATK Piercing Dark Bullet)
 射撃/炎炸裂弾,867373469,Special,Mag action (R-ATK Exploding Fire Bullet)
 射撃/氷炸裂弾,1542931456,Special,Mag action (R-ATK Exploding Ice Bullet)
+射撃/雷炸裂弾,3126711672,Special,Mag action 雷炸裂弾(R-ATK/Exploding Lightning Bullet)
+射撃/風炸裂弾,1687392375,Special,Mag action (R-ATK Exploding Wind Bullet)
+射撃/光炸裂弾,649064981,Special,Mag action (R-ATK Exploding Light Bullet)
+射撃/闇炸裂弾,2364012448,Special,Mag action (R-ATK Exploding Dark Bullet)
 法撃/フォイエ,1049123664,Special,Mag action (T-ATK Foie)
+法撃/バータ,3760306129,Special,Mag action (T-ATK Barta)
+法撃/ゾンデ,4075390095,Special,Mag action (T-ATK Zonde)
+法撃/ザン,912617849,Special,Mag action (T-ATK Zan)
 法撃/グランツ,1886571787,Special,Mag action (T-ATK Grants)
 法撃/メギド,1059126347,Special,Mag action (T-ATK Megid)
 SP打撃/乱舞,3104220402,Special,Mag action - 乱舞(S-ATK SP/Clobber)
 SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
+ヘリクス・プロイ,2004640116,Special,PB Helix Proi no-chain+1-chain+2-chain
+ヘリクス・プロイ,1792224906,Special,PB Helix Proi 4-chain
+アイアス・イメラ,4274907792,Special,PB Ajax Imera no-chain+1-chain+2-chain
+アイアス・イメラ,2379589576,Special,PB Ajax Imera 4-chain
++Ketos Proi,4277784487,Special,PB Ketos Proi no-chain+1-chain
++Julius Proi,2074769727,Special,PB Julius Proi no-chain
++Julius Proi,2074769724,Special,PB Julius Proi 1-chain
 ユリウス・ニフタ,764702094,Special,PB Julius Nifta no chain
 ユリウス・ニフタ,764702093,Special,PB Julius Nifta 2-chain
 ユリウス・ニフタ,764702092,Special,PB Julius Nifta 3-chain
 ユリウス・ニフタ,764702091,Special,PB Julius Nifta 4-chain
-アイアス・イメラ,4274907792,Special,PB Ajax Imera no-chain+1-chain+2-chain
-アイアス・イメラ,2379589576,Special,PB Ajax Imera 4-chain
-ヘリクス・プロイ,2004640116,Special,PB Helix Proi no-chain+1-chain+2-chain
-ヘリクス・プロイ,1792224906,Special,PB Helix Proi 4-chain
 ブーストキック,85301614,Special,Tokyo speed-pad kick level 1
 ブーストキック,85302964,Special,Tokyo speed-pad kick level 2 
 ブーストキック,85303029,Special,Tokyo speed-pad kick level 3
 ブーストキック,85301612,Special,Tokyo speed-pad kick level 1 on cars
 ブーストキック,85302966,Special,Tokyo speed-pad kick level 2 on cars
 ブーストキック,85303031,Special,Tokyo speed-pad kick level 3 on cars
+モノメイト,2925757257,Special,Monomate
+ディメイト,2925757256,Special,Dimate
+トリメイト,2925757259,Special,Trimate
+スターアトマイザー,2925757249,Special,Star Atomzier
+リカバリーポッド,633660526,Special,Recovery Pod
+ジャストリバーサルカバー,2440029502,Special,Just Reversal Cover (Br skill)
+ヒーリングガード,662646057,Special,Healing Guard (Hu skill)
 ガトリングトーチ,1852253343,Special,Normal Turret
 拘束銃座,1358461404,Special,Rodos Grapple Turret
 大砲,2414748436,Special,Facility Cannon
