@@ -53,10 +53,12 @@ Type,ID,Kind,Name
 ラ・ゾンデ,3676394406,Tech,Charged
 ラ・ゾンデ,1182047893,Tech,Uncharged
 サ・ゾンデ,3103634595,Tech,Charged
+サ・ゾンデ,577772084,Tech,Sazonde ignition burn/poisonlike damage? (charged)
 サ・ゾンデ,3004803920,Tech,Uncharged
 ゾンディール,3588292375,Tech,Charged
 ゾンディール,2651268955,Tech,Uncharged
 ナ・ゾンデ,2789601843,Tech,Charged
+ナ・ゾンデ,1343119479,Tech,Nazonde no spam ignition? what is sega thinking
 ナ・ゾンデ,4278420419,Tech,Uncharged
 イル・ゾンデ,1756866220,Tech,Charged
 イル・ゾンデ,2398664728,Tech,Uncharged
@@ -258,7 +260,7 @@ Enemy Thrown,2164805818,PA,beatdown
 サーベラスダンス零式,1181894001,PA,サーベラスダンス finish (crafted)
 ワイルドラウンド,1667539503,PA,ワイルドラウンド
 カイザーライズ,4083089437,PA,カイザーライズ
-アダプトスピン ,4083089500,PA,アダプトスピン
+アダプトスピン,4083089500,PA,アダプトスピン
 通常攻撃(ガンスラッシュ),3318968327,Melee,Gunslash M1
 通常攻撃(ガンスラッシュ),1408075886,Melee,Gunslash M2
 通常攻撃(ガンスラッシュ),2364486899,Melee,Gunslash M3
@@ -336,9 +338,9 @@ DS かまいたち,2620269005,Special,level 3
 通常攻撃(ツインダガー),2378312327,Melee,
 通常攻撃(ツインダガー),2378312320,Melee,
 通常攻撃(ツインダガー),2378312321,Melee,
-通常攻撃(ツインダガー),3816723344,Melee,Twin Daggers air first normal attack
-通常攻撃(ツインダガー),1163229184,Melee,Twin Daggers air second normal attack
-通常攻撃(ツインダガー),1893769682,Melee,Twin Daggers air third normal attack
+通常攻撃(ツインダガー),3816723344,Melee,Twin Daggers 0 gear air first normal attack
+通常攻撃(ツインダガー),1163229184,Melee,Twin Daggers 0 gear air second normal attack
+通常攻撃(ツインダガー),1893769682,Melee,Twin Daggers 0 gear air third normal attack
 通常攻撃(ツインダガー),3816723347,Melee,Twin Daggers 1 gear air first attack
 通常攻撃(ツインダガー),1163229191,Melee,Twin Daggers 1 gear air second attack
 通常攻撃(ツインダガー),1893769685,Melee,Twin Daggers 1 gear air third attack
@@ -348,13 +350,15 @@ DS かまいたち,2620269005,Special,level 3
 通常攻撃(ツインダガー),3816723349,Melee,Twin Daggers 3 gear air first attack
 通常攻撃(ツインダガー),1163229189,Melee,Twin Daggers 3 gear air second attack
 通常攻撃(ツインダガー),1893769687,Melee,Twin Daggers 3 gear air third attack
-Tダガースピン,3115487274,Special,Spin 0 gear
-Tダガースピン,3115487275,Special,Spin partial gear
-Tダガースピン,3115487272,Special,Spin full gear
+Tダガースピン,3115487285,Special,TD Spin 0 gear
+Tダガースピン,3115487274,Special,TD Spin 1 gear
+Tダガースピン,3115487275,Special,TD Spin 2 gear
+Tダガースピン,3115487272,Special,TD Spin 3 gear
 ステップアタック(ツインダガー),2767975965,Melee,TD Step
-レイジングワルツ,238277154,PA,レイジングワルツ 0 gear
-レイジングワルツ,238277155,PA,レイジングワルツ 1 gear
-レイジングワルツ,238277152,PA,レイジングワルツ 2 gear
+レイジングワルツ,238277165,PA,レイジングワルツ 0 gear
+レイジングワルツ,238277154,PA,レイジングワルツ 1 gear
+レイジングワルツ,238277155,PA,レイジングワルツ 2 gear
+レイジングワルツ,238277152,PA,レイジングワルツ 3 gear
 シュートポルカ,2053605232,PA,シュートポルカ stage 0 gear
 シュートポルカ,2053605233,PA,シュートポルカ stage 1 gear
 シュートポルカ,2053605246,PA,シュートポルカ stage 2 gear
@@ -362,66 +366,71 @@ Tダガースピン,3115487272,Special,Spin full gear
 スケアフーガ,1193225277,PA,スケアフーガ first ヒット 0 gear
 スケアフーガ,2790036905,PA,スケアフーガ second ヒット 0 gear
 スケアフーガ,721495005,PA,スケアフーガ third ヒット 0 gear
-スケアフーガ,1193225276,PA,スケアフーガ first partial gear
-スケアフーガ,2790036906,PA,スケアフーガ second partial gear
-スケアフーガ,721495004,PA,スケアフーガ third partial gear
+スケアフーガ,1193225276,PA,スケアフーガ first 1 gear
+スケアフーガ,2790036906,PA,スケアフーガ second 1 gear
+スケアフーガ,721495004,PA,スケアフーガ third 1 gear
 スケアフーガ,1193225278,PA,Scar Fugue 3 gear grab
 スケアフーガ,2790036908,PA,Scar Fugue 3 gear second hit
 スケアフーガ,721495002,PA,Scar Fugue 3 gear last hit
-スケアフーガ,1193225279,PA,スケアフーガ full gear
-スケアフーガ,2790036907,PA,スケアフーガ second full gear
-スケアフーガ,721495003,PA,スケアフーガ third full gear
+スケアフーガ,1193225279,PA,スケアフーガ 2 gear
+スケアフーガ,2790036907,PA,スケアフーガ second 2 gear
+スケアフーガ,721495003,PA,スケアフーガ third 2 gear
 ワイルドラプソディ,3998547224,PA,ワイルドラプソディ stage 0 gear
 ワイルドラプソディ,3998547225,PA,ワイルドラプソディ stage 1 gear
 ワイルドラプソディ,3998547226,PA,ワイルドラプソディ stage 2 gear
 ワイルドラプソディ,3998547227,PA,ワイルドラプソディ stage 3 gear
 ダークスケルツォ,2711968273,PA,ダークスケルツォ first two ヒットs 0 gear
 ダークスケルツォ,2115627931,PA,ダークスケルツォ final 0 gear
-ダークスケルツォ,2711968272,PA,ダークスケルツォ first two ヒットs partial
-ダークスケルツォ,2115627930,PA,ダークスケルツォ final partial
-ダークスケルツォ,2711968286,PA,Dark Scherzo max gear first two hits
-ダークスケルツォ,2115627908,PA,Dark Scherzo max gear final hit
-ダークスケルツォ,2711968287,PA,ダークスケルツォ first two full gear
-ダークスケルツォ,2115627909,PA,ダークスケルツォ final full gear
-クイックマーチ,3438453623,PA,クイックマーチ
-クイックマーチ,3438453622,PA,クイックマーチ
-クイックマーチ,751181369,PA,クイックマーチ
-クイックマーチ,751181368,PA,クイックマーチ
-クイックマーチ,3438453621,PA,クイックマーチ
-シンフォニックドライブ,2764513442,PA,シンフォニックドライブ kick 1
-シンフォニックドライブ,167868455,PA,シンフォニックドライブ kick 2
-シンフォニックドライブ,2764513443,PA,Symph kick 1 partial gear
-シンフォニックドライブ,167868448,PA,Symph kick 2 partial gear
-シンフォニックドライブ,2764513444,PA,Symph kick 1 full gear
-シンフォニックドライブ,167868449,PA,Symph kick 2 full gear
-オウルケストラー,120509749,PA,ooooo
-オウルケストラー,1362404324,PA,rchestra
-オウルケストラー,120509750,PA,Oooooooooooo
-オウルケストラー,1362404325,PA,rchestra
-オウルケストラー,120509751,PA,OOOOOOOOOOOO
-オウルケストラー,1362404326,PA,rchestra!
+ダークスケルツォ,2711968272,PA,ダークスケルツォ first two hits 1 gear
+ダークスケルツォ,2115627930,PA,ダークスケルツォ final 1 gear
+ダークスケルツォ,2711968287,PA,ダークスケルツォ first two 2 gear
+ダークスケルツォ,2115627909,PA,ダークスケルツォ final 2 gear
+ダークスケルツォ,2711968286,PA,ダークスケルツォ 3 gear first two hits
+ダークスケルツォ,2115627908,PA,ダークスケルツォ 3 gear final hit
+クイックマーチ,3438453616,PA,クイックマーチ 2 kicks no gear
+クイックマーチ,751181375,PA,クイックマーチ final no gear
+クイックマーチ,3438453623,PA,クイックマーチ 2 kicks 1 gear
+クイックマーチ,751181369,PA,クイックマーチ final 1 gear
+クイックマーチ,3438453622,PA,クイックマーチ 2 kicks 2 gear
+クイックマーチ,751181368,PA,クイックマーチ final 2 gear
+クイックマーチ,3438453621,PA,クイックマーチ 2 kicks 3 gear
+シンフォニックドライブ,2764513441,PA,シンフォニックドライブ first kick 0 gear
+シンフォニックドライブ,167868454,PA,シンフォニックドライブ second kick 0 gear
+シンフォニックドライブ,2764513442,PA,シンフォニックドライブ first kick 1 gear
+シンフォニックドライブ,167868455,PA,シンフォニックドライブ second kick 1 gear
+シンフォニックドライブ,2764513443,PA,シンフォニックドライブ first kick 2 gear
+シンフォニックドライブ,167868448,PA,シンフォニックドライブ second kick 2 gear
+シンフォニックドライブ,2764513444,PA,シンフォニックドライブ first kick 3 gear
+シンフォニックドライブ,167868449,PA,シンフォニックドライブ second kick 3 gear
+オウルケストラー,120509749,PA,ooooo 0 gear
+オウルケストラー,1362404324,PA,rchestra 0 gear finish
+オウルケストラー,120509750,PA,Oooooooooooo 1 gear
+オウルケストラー,1362404325,PA,rchestra 1 gear finish
+オウルケストラー,120509751,PA,OOOOOOOOOOOO 2 gear
+オウルケストラー,1362404326,PA,RCHESTRA! 2 gear finish
 オウルケストラー,120509752,PA,Orchestra 3 gear
 オウルケストラー,1362404327,PA,Orchestra 3 gear finish
-ブラッディサラバンド,1022160397,PA,ブラッディサラバンド pt1
-ブラッディサラバンド,2745888524,PA,ブラッディサラバンド pt2
-ブラッディサラバンド,1022160396,PA,ブラッディサラバンド pt1 partial g
-ブラッディサラバンド,2745888515,PA,ブラッディサラバンド pt2 partial g
-ブラッディサラバンド,1022160394,PA,ブラッディサラバンド pt1 full g
-ブラッディサラバンド,2745888513,PA,ブラッディサラバンド pt2 full g
+ブラッディサラバンド,1022160397,PA,ブラッディサラバンド pt1 0 gear
+ブラッディサラバンド,2745888524,PA,ブラッディサラバンド pt2 0 gear
 ブラッディサラバンド,1185927985,PA,Bloody Sarabande no gear ground second part
+ブラッディサラバンド,1022160396,PA,ブラッディサラバンド pt1 1 g
+ブラッディサラバンド,2745888515,PA,ブラッディサラバンド pt2 1 g
 ブラッディサラバンド,1022160395,PA,Bloody Sarabande 2 gear first part
 ブラッディサラバンド,2745888514,PA,Bloody Sarabande 2 gear second part
-ファセットフォリア,2569859798,PA,ファセットフォリア start
-ファセットフォリア,3225817327,PA,ファセットフォリア combo
-ファセットフォリア,1460149680,PA,ファセットフォリア finish
-ファセットフォリア,2569859799,PA,FF start partial gear
-ファセットフォリア,3225817324,PA,FF combo partial gear
-ファセットフォリア,1460149681,PA,FF finish partial gear
-ファセットフォリア,2569859796,PA,FF start full gear
-ファセットフォリア,3225817325,PA,FF combo full gear
-ファセットフォリア,1460149686,PA,FF finish full gear
-ファセットフォリア,2569859797,PA,Facet Folia max gear grab
-ファセットフォリア,3225817234,PA,Facet Folia max gear second part
+ブラッディサラバンド,1022160394,PA,Bloody Saranbande pt1 3 g
+ブラッディサラバンド,2745888513,PA,Bloody Saranbande pt2 3 g
+ファセットフォリア,2569859798,PA,Facet Folia start 0 gear
+ファセットフォリア,3225817327,PA,Facet Folia combo 0 gear 
+ファセットフォリア,1460149683,PA,Facet Folia finish 0 gear
+ファセットフォリア,2569859799,PA,Facet Folia start 1 gear
+ファセットフォリア,3225817324,PA,Facet Folia combo 1 gear
+ファセットフォリア,1460149681,PA,Facet Folia finish 1 gear
+ファセットフォリア,2569859796,PA,Facet Folia start 2 gear
+ファセットフォリア,3225817325,PA,Facet Folia combo 2 gear
+ファセットフォリア,1460149686,PA,Facet Folia finish 2 gear
+ファセットフォリア,2569859797,PA,Facet Folia 3 gear grab
+ファセットフォリア,3225817234,PA,Facet Folia 3 gear second part
+ファセットフォリア,1460149680,PA,Facet Folia finish 3 gear
 フォールノクターン,1622238417,PA,フォールノクターン partial gear
 フォールノクターン,1622238480,PA,フォールノクターン full gear
 フォールノクターン,1622238547,PA,Fall Nocturne max gear
@@ -478,6 +487,7 @@ Tダガースピン,3115487272,Special,Spin full gear
 サクラエンド,206860877,PA,Sakura charged
 ヒエンツバキ,3148574817,PA,Hien
 アサギリレンダン,3148574752,PA,Asagiri
+アサギリレンダン,3341396290,PA,final hit
 ハトウリンドウ,3651508774,PA,Hatou uncharged
 ハトウリンドウ,2325733367,PA,Hatou uncharged doubleヒット
 ハトウリンドウ,273071015,PA,Hatou charged close
@@ -488,6 +498,7 @@ Tダガースピン,3115487272,Special,Spin full gear
 シュンカシュンラン,2585461118,PA,Shunka uncharged
 シュンカシュンラン,3513096229,PA,Shunka charged start
 シュンカシュンラン,2264839669,PA,Shunka charged main combo
+シュンカシュンラン,1450022218,PA,Shunka-shunran left/right slash
 シュンカシュンラン,1309789969,PA,Shunka megaslash 1 of 2
 シュンカシュンラン,2017360610,PA,Shunka megaslash 2 of 2
 カザンナデシコ,3148578174,PA,カザンナデシコ (uncrafted)
@@ -597,6 +608,7 @@ Tダガースピン,3115487272,Special,Spin full gear
 インパクトスライダー,220056584,PA,インパクトスライダー
 インパクトスライダー,1218987301,PA,インパクトスライダー (kick)
 スニークシューター,220056777,PA,スニークシューター
+グローリーレイン,1190704694,PA,Glorious Rain start
 グローリーレイン,220056714,PA,グローリーレイン
 パラレルスライダー,220057419,PA,パラレルスライダー
 サテライトカノン,2295790933,PA,サテライトカノン (no charge)
@@ -626,6 +638,7 @@ Tダガースピン,3115487272,Special,Spin full gear
 クラッカーバレット,2709161566,PA,クラッカーバレット (final)
 ゼロディスタンス,2709161503,PA,ゼロディスタンス
 ロデオドライブ,2219642677,PA,ロデオドライブ
+ロデオドライブ,2219641904,PA,Rodeo Drive air start hit
 クレイジースマッシュ,2709161368,PA,クレイジースマッシュ (direct enemy)
 フェイクシルエット,2219699734,PA,フェイクシルエット
 フレイムバレット,2709161242,PA,フレイムバレット
@@ -860,12 +873,14 @@ Tダガースピン,3115487272,Special,Spin full gear
 ヴィオラスライサー,4259075094,PA,ヴィオラスライサー second hit
 ヴィオラアサルト,555201499,PA,ヴィオラアサルト
 ヴィオラスタンプ,555203454,PA,ヴィオラスタンプ
+ヴィオラスタンプ,4244643339,PA,ヴィオラスタンプ hard hit
 ヴィオラパルサー,555201434,PA,ヴィオラパルサー first hit
 ヴィオラパルサー,201300655,PA,ヴィオラパルサー DoT
 ヴィオラスライサー,2643918256,PA,ヴィオラスライサー first hit (ヴィオラチェンジ version)
 ヴィオラスライサー,2643918193,PA,ヴィオラスライサー second hit (ヴィオラチェンジ version)
 ヴィオラアサルト,4235149933,PA,ヴィオラアサルト (ヴィオラチェンジ version)
 ヴィオラスタンプ,4259879100,PA,ヴィオラスタンプ (ヴィオラチェンジ version)
+ヴィオラスタンプ,375503608,PA,ヴィオラスタンプ hard hit (ヴィオラチェンジ version)
 ヴィオラパルサー,4234893896,PA,ヴィオラパルサー first hit (ヴィオラチェンジ version)
 ヴィオラパルサー,444146511,PA,ヴィオラパルサー DoT (ヴィオラチェンジ version)
 打撃/アタック,2667138551,Special,Mag action (S-ATK Attack)
@@ -899,6 +914,7 @@ SP打撃/乱舞,3104220402,Special,Mag action - 乱舞(S-ATK SP/Clobber)
 SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
 ヘリクス・プロイ,2004640116,Special,PB Helix Proi no-chain+1-chain+2-chain
 ヘリクス・プロイ,1792224906,Special,PB Helix Proi 4-chain
+ヘリクス・イメラ,1075221526,Special,PB Helix Imera no-chain
 アイアス・イメラ,4274907792,Special,PB Ajax Imera no-chain+1-chain+2-chain
 アイアス・イメラ,2379589576,Special,PB Ajax Imera 4-chain
 ケートス・プロイ Proi,4277784487,Special,PB Ketos Proi no-chain+1-chain
