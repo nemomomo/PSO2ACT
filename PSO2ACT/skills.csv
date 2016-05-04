@@ -273,6 +273,7 @@ Enemy Thrown,2164805818,PA,beatdown
 ステップアタック(ガンスラッシュ),2277392279,Melee,Gunslash Step
 トライインパクト,3316645180,PA,トライインパクト first two ヒットs
 トライインパクト,1956354608,PA,トライインパクト third impact
+トライインパクト零式,2041657518,PA,Tri-Impact Crafted first non-slash hit
 トライインパクト零式,4121081309,PA,トライインパクト crafted ヒット
 トライインパクト零式,3770139908,PA,トライインパクト crafted ヒット
 トライインパクト零式,1585984604,PA,トライインパクト crafted ヒット
@@ -338,22 +339,22 @@ DS かまいたち,2620269005,Special,level 3
 通常攻撃(ツインダガー),2378312327,Melee,
 通常攻撃(ツインダガー),2378312320,Melee,
 通常攻撃(ツインダガー),2378312321,Melee,
-通常攻撃(ツインダガー),3816723344,Melee,Twin Daggers 0 gear air first normal attack
-通常攻撃(ツインダガー),1163229184,Melee,Twin Daggers 0 gear air second normal attack
-通常攻撃(ツインダガー),1893769682,Melee,Twin Daggers 0 gear air third normal attack
-通常攻撃(ツインダガー),3816723347,Melee,Twin Daggers 1 gear air first attack
-通常攻撃(ツインダガー),1163229191,Melee,Twin Daggers 1 gear air second attack
-通常攻撃(ツインダガー),1893769685,Melee,Twin Daggers 1 gear air third attack
-通常攻撃(ツインダガー),3816723346,Melee,Twin Daggers 2 gear air first attack
-通常攻撃(ツインダガー),1163229190,Melee,Twin Daggers 2 gear air second attack
-通常攻撃(ツインダガー),1893769684,Melee,Twin Daggers 2 gear air third attack
-通常攻撃(ツインダガー),3816723349,Melee,Twin Daggers 3 gear air first attack
-通常攻撃(ツインダガー),1163229189,Melee,Twin Daggers 3 gear air second attack
-通常攻撃(ツインダガー),1893769687,Melee,Twin Daggers 3 gear air third attack
-Tダガースピン,3115487285,Special,TD Spin 0 gear
-Tダガースピン,3115487274,Special,TD Spin 1 gear
-Tダガースピン,3115487275,Special,TD Spin 2 gear
-Tダガースピン,3115487272,Special,TD Spin 3 gear
+通常攻撃(ツインダガー),3816723344,Melee,0 gear air first normal attack
+通常攻撃(ツインダガー),3816723347,Melee,1 gear
+通常攻撃(ツインダガー),3816723346,Melee,2 gear
+通常攻撃(ツインダガー),3816723349,Melee,3 gear
+通常攻撃(ツインダガー),1163229184,Melee,0 gear air second normal attack
+通常攻撃(ツインダガー),1163229191,Melee,1 gear
+通常攻撃(ツインダガー),1163229190,Melee,2 gear
+通常攻撃(ツインダガー),1163229189,Melee,3 gear
+通常攻撃(ツインダガー),1893769682,Melee,0 gear air third normal attack
+通常攻撃(ツインダガー),1893769685,Melee,1 gear
+通常攻撃(ツインダガー),1893769684,Melee,2 gear
+通常攻撃(ツインダガー),1893769687,Melee,3 gear
+Tダガースピン,3115487285,Special,0 gear TD Spin
+Tダガースピン,3115487274,Special,1 gear
+Tダガースピン,3115487275,Special,2 gear
+Tダガースピン,3115487272,Special,3 gear
 ステップアタック(ツインダガー),2767975965,Melee,TD Step
 レイジングワルツ,238277165,PA,レイジングワルツ 0 gear
 レイジングワルツ,238277154,PA,レイジングワルツ 1 gear
@@ -363,77 +364,77 @@ Tダガースピン,3115487272,Special,TD Spin 3 gear
 シュートポルカ,2053605233,PA,シュートポルカ stage 1 gear
 シュートポルカ,2053605246,PA,シュートポルカ stage 2 gear
 シュートポルカ,2053605247,PA,シュートポルカ stage 3 gear
-スケアフーガ,1193225277,PA,スケアフーガ first ヒット 0 gear
-スケアフーガ,2790036905,PA,スケアフーガ second ヒット 0 gear
-スケアフーガ,721495005,PA,スケアフーガ third ヒット 0 gear
-スケアフーガ,1193225276,PA,スケアフーガ first 1 gear
-スケアフーガ,2790036906,PA,スケアフーガ second 1 gear
-スケアフーガ,721495004,PA,スケアフーガ third 1 gear
-スケアフーガ,1193225278,PA,Scar Fugue 3 gear grab
-スケアフーガ,2790036908,PA,Scar Fugue 3 gear second hit
-スケアフーガ,721495002,PA,Scar Fugue 3 gear last hit
-スケアフーガ,1193225279,PA,スケアフーガ 2 gear
-スケアフーガ,2790036907,PA,スケアフーガ second 2 gear
-スケアフーガ,721495003,PA,スケアフーガ third 2 gear
+スケアフーガ,1193225277,PA,Scar Fugue 0 gear first hit
+スケアフーガ,1193225276,PA,1 gear
+スケアフーガ,1193225279,PA,2 gear
+スケアフーガ,1193225278,PA,3 gear
+スケアフーガ,2790036905,PA,Scar Fugue 0 gear second hit
+スケアフーガ,2790036906,PA,1 gear
+スケアフーガ,2790036907,PA,2 gear
+スケアフーガ,2790036908,PA,3 gear
+スケアフーガ,721495005,PA,Scar Fugue 0 gear third hit
+スケアフーガ,721495004,PA,1 gear
+スケアフーガ,721495003,PA,2 gear
+スケアフーガ,721495002,PA,3 gear
 ワイルドラプソディ,3998547224,PA,ワイルドラプソディ stage 0 gear
 ワイルドラプソディ,3998547225,PA,ワイルドラプソディ stage 1 gear
 ワイルドラプソディ,3998547226,PA,ワイルドラプソディ stage 2 gear
 ワイルドラプソディ,3998547227,PA,ワイルドラプソディ stage 3 gear
-ダークスケルツォ,2711968273,PA,ダークスケルツォ first two ヒットs 0 gear
-ダークスケルツォ,2115627931,PA,ダークスケルツォ final 0 gear
-ダークスケルツォ,2711968272,PA,ダークスケルツォ first two hits 1 gear
-ダークスケルツォ,2115627930,PA,ダークスケルツォ final 1 gear
-ダークスケルツォ,2711968287,PA,ダークスケルツォ first two 2 gear
-ダークスケルツォ,2115627909,PA,ダークスケルツォ final 2 gear
-ダークスケルツォ,2711968286,PA,ダークスケルツォ 3 gear first two hits
-ダークスケルツォ,2115627908,PA,ダークスケルツォ 3 gear final hit
-クイックマーチ,3438453616,PA,クイックマーチ 2 kicks no gear
-クイックマーチ,751181375,PA,クイックマーチ final no gear
-クイックマーチ,3438453623,PA,クイックマーチ 2 kicks 1 gear
-クイックマーチ,751181369,PA,クイックマーチ final 1 gear
-クイックマーチ,3438453622,PA,クイックマーチ 2 kicks 2 gear
-クイックマーチ,751181368,PA,クイックマーチ final 2 gear
-クイックマーチ,3438453621,PA,クイックマーチ 2 kicks 3 gear
-シンフォニックドライブ,2764513441,PA,シンフォニックドライブ first kick 0 gear
-シンフォニックドライブ,167868454,PA,シンフォニックドライブ second kick 0 gear
-シンフォニックドライブ,2764513442,PA,シンフォニックドライブ first kick 1 gear
-シンフォニックドライブ,167868455,PA,シンフォニックドライブ second kick 1 gear
-シンフォニックドライブ,2764513443,PA,シンフォニックドライブ first kick 2 gear
-シンフォニックドライブ,167868448,PA,シンフォニックドライブ second kick 2 gear
-シンフォニックドライブ,2764513444,PA,シンフォニックドライブ first kick 3 gear
-シンフォニックドライブ,167868449,PA,シンフォニックドライブ second kick 3 gear
-オウルケストラー,120509749,PA,ooooo 0 gear
-オウルケストラー,1362404324,PA,rchestra 0 gear finish
-オウルケストラー,120509750,PA,Oooooooooooo 1 gear
-オウルケストラー,1362404325,PA,rchestra 1 gear finish
-オウルケストラー,120509751,PA,OOOOOOOOOOOO 2 gear
-オウルケストラー,1362404326,PA,RCHESTRA! 2 gear finish
-オウルケストラー,120509752,PA,Orchestra 3 gear
-オウルケストラー,1362404327,PA,Orchestra 3 gear finish
-ブラッディサラバンド,1022160397,PA,ブラッディサラバンド pt1 0 gear
-ブラッディサラバンド,2745888524,PA,ブラッディサラバンド pt2 0 gear
-ブラッディサラバンド,1185927985,PA,Bloody Sarabande no gear ground second part
-ブラッディサラバンド,1022160396,PA,ブラッディサラバンド pt1 1 g
-ブラッディサラバンド,2745888515,PA,ブラッディサラバンド pt2 1 g
-ブラッディサラバンド,1022160395,PA,Bloody Sarabande 2 gear first part
-ブラッディサラバンド,2745888514,PA,Bloody Sarabande 2 gear second part
-ブラッディサラバンド,1022160394,PA,Bloody Saranbande pt1 3 g
-ブラッディサラバンド,2745888513,PA,Bloody Saranbande pt2 3 g
-ファセットフォリア,2569859798,PA,Facet Folia start 0 gear
-ファセットフォリア,3225817327,PA,Facet Folia combo 0 gear 
-ファセットフォリア,1460149683,PA,Facet Folia finish 0 gear
-ファセットフォリア,2569859799,PA,Facet Folia start 1 gear
-ファセットフォリア,3225817324,PA,Facet Folia combo 1 gear
-ファセットフォリア,1460149681,PA,Facet Folia finish 1 gear
-ファセットフォリア,2569859796,PA,Facet Folia start 2 gear
-ファセットフォリア,3225817325,PA,Facet Folia combo 2 gear
-ファセットフォリア,1460149686,PA,Facet Folia finish 2 gear
-ファセットフォリア,2569859797,PA,Facet Folia 3 gear grab
-ファセットフォリア,3225817234,PA,Facet Folia 3 gear second part
-ファセットフォリア,1460149680,PA,Facet Folia finish 3 gear
-フォールノクターン,1622238417,PA,フォールノクターン partial gear
-フォールノクターン,1622238480,PA,フォールノクターン full gear
-フォールノクターン,1622238547,PA,Fall Nocturne max gear
+ダークスケルツォ,2711968273,PA,Dark Scherzo 0 gear first two hits
+ダークスケルツォ,2711968272,PA,Dark Scherzo 1 gear
+ダークスケルツォ,2711968287,PA,Dark Scherzo 2 gear
+ダークスケルツォ,2711968286,PA,Dark Scherzo 3 gear
+ダークスケルツォ,2115627931,PA,Dark Scherzo 0 gear final
+ダークスケルツォ,2115627930,PA,Dark Scherzo 1 gear
+ダークスケルツォ,2115627909,PA,Dark Scherzo 2 gear
+ダークスケルツォ,2115627908,PA,Dark Scherzo 3 gear
+クイックマーチ,3438453616,PA,Quick March 0 gear 2 kicks
+クイックマーチ,3438453623,PA,Quick March 1 gear
+クイックマーチ,3438453622,PA,Quick March 2 gear
+クイックマーチ,3438453621,PA,Quick March 3 gear
+クイックマーチ,751181375,PA,Quick March 0-1(?) gear final
+クイックマーチ,751181369,PA,Quick March 2 gear
+クイックマーチ,751181368,PA,Quick March 3 gear
+シンフォニックドライブ,2764513441,PA,0 gear Symphonic Drive first kick
+シンフォニックドライブ,2764513442,PA,1 gear
+シンフォニックドライブ,2764513443,PA,2 gear
+シンフォニックドライブ,2764513444,PA,3 gear
+シンフォニックドライブ,167868454,PA,0 gear Symphonic Drive second kick
+シンフォニックドライブ,167868455,PA,1 gear
+シンフォニックドライブ,167868448,PA,2 gear
+シンフォニックドライブ,167868449,PA,3 gear
+オウルケストラー,120509749,PA,0 gear Orchestra
+オウルケストラー,120509750,PA,1 gear
+オウルケストラー,120509751,PA,2 gear
+オウルケストラー,120509752,PA,3 gear
+オウルケストラー,1362404324,PA,0 gear Orchestra finish
+オウルケストラー,1362404325,PA,1 gear
+オウルケストラー,1362404326,PA,2 gear
+オウルケストラー,1362404327,PA,3 gear
+ブラッディサラバンド,1022160397,PA,Bloody Saranbande 0 gear pt1
+ブラッディサラバンド,1022160396,PA,Bloody Saranbande 1 gear
+ブラッディサラバンド,1022160395,PA,Bloody Saranbande 2 gear
+ブラッディサラバンド,1022160394,PA,Bloody Saranbande 3 gear
+ブラッディサラバンド,1185927985,PA,Bloody Saranbande 0 gear pt2 ground
+ブラッディサラバンド,2745888524,PA,Bloody Saranbande 0 gear pt2 air
+ブラッディサラバンド,2745888515,PA,Bloody Saranbande 1 gear
+ブラッディサラバンド,2745888514,PA,Bloody Saranbande 2 gear
+ブラッディサラバンド,2745888513,PA,Bloody Saranbande 3 gear
+ファセットフォリア,2569859798,PA,Facet Folia 0 gear start
+ファセットフォリア,2569859799,PA,Facet Folia 1 gear
+ファセットフォリア,2569859796,PA,Facet Folia 2 gear
+ファセットフォリア,2569859797,PA,Facet Folia 3 gear
+ファセットフォリア,3225817327,PA,Facet Folia 0 gear combo
+ファセットフォリア,3225817324,PA,Facet Folia 1 gear
+ファセットフォリア,3225817325,PA,Facet Folia 2 gear
+ファセットフォリア,3225817234,PA,Facet Folia 3 gear
+ファセットフォリア,1460149683,PA,Facet Folia 0 gear finish
+ファセットフォリア,1460149681,PA,Facet Folia 1 gear
+ファセットフォリア,1460149686,PA,Facet Folia 2 gear
+ファセットフォリア,1460149680,PA,Facet Folia 3 gear
+フォールノクターン,1622238417,PA,Fall Nocturne 0-1 gear
+フォールノクターン,1622238480,PA,Fall Nocturne 2 gear
+フォールノクターン,1622238547,PA,Fall Nocturne 3 gear
 通常攻撃(ナックル),1325529929,Melee,Knuckles 1
 通常攻撃(ナックル),1539605878,Melee,Knuckles 2
 通常攻撃(ナックル),2996195244,Melee,Knuckles 3
@@ -471,13 +472,13 @@ Tダガースピン,3115487272,Special,TD Spin 3 gear
 通常攻撃(カタナ),3103990658,Melee,Katana air second normal attack
 通常攻撃(カタナ),3103990723,Melee,Katana air third normal attack
 ステップアタック(カタナ),3106156042,Melee,Katana Step
-カウンター,1987114712,Special,Katana Counter Edge no gear-1 gear (ring uses this as well)
-カウンター,2700168094,Special,Katana Counter hit no gear
-カウンター,2700168093,Special,Katana Counter hit 1 gear
-カウンター,4136181738,Special,Katana Counter hit 2 gear
-カウンター,4184015666,Special,Katana Counter Edge 2-max gear
-カウンター,4143333980,Special,Katana Counter hit max gear (ring uses this as well)
-カウンター,2700168092,Special,something Katana Counter related?
+ジャストカウンター,2700168094,Special,Just Counter 0 gear hit
+ジャストカウンター,2700168093,Special,Just Counter 1 gear
+ジャストカウンター,2700168092,Special,Just Counter 2 gear
+ジャストカウンター,4143333980,Special,Just Counter 3 gear
+ジャストカウンター,4136181738,Special,Just Counter (2-3 gear) second hit
+カウンターエッジ,1987114712,Special,Counter Edge 0-1 gear
+カウンターエッジ,4184015666,Special,Counter Edge 2-3 gear
 ツキミサザンカ,3148575588,PA,ツキミサザンカ
 ゲッカザクロ,215665118,PA,ゲッカザクロ downswing
 ゲッカザクロ,2160628938,PA,Gekka upswing
@@ -644,133 +645,133 @@ Tダガースピン,3115487272,Special,TD Spin 3 gear
 フレイムバレット,2709161242,PA,フレイムバレット
 コスモスブレイカー,2219596384,PA,コスモスブレイカー
 スフィアイレイザー,2219595324,PA,スフィアイレイザー
-通常攻撃(ツインマシンガン),3132894402,Ranged,First attack (4x)
-通常攻撃(ツインマシンガン),3132894403,Ranged,Partial gear
-通常攻撃(ツインマシンガン),3132894401,Ranged,Full gear
-通常攻撃(ツインマシンガン),3132894400,Ranged,Twin Machineguns first normal attack max gear
-通常攻撃(ツインマシンガン),1923738865,Ranged,Second attack (4x)
-通常攻撃(ツインマシンガン),1923738870,Ranged,Partial gear
-通常攻撃(ツインマシンガン),1923738868,Ranged,Full gear
-通常攻撃(ツインマシンガン),1923738871,Ranged,Twin Machineguns second normal attack max gear
-通常攻撃(ツインマシンガン),1901223401,Ranged,Third attack (5x)
-通常攻撃(ツインマシンガン),1901223406,Ranged,Partial gear
-通常攻撃(ツインマシンガン),1901223404,Ranged,Full gear
-通常攻撃(ツインマシンガン),1901223407,Ranged,Twin Machineguns left gun third normal attack max gear
-通常攻撃(ツインマシンガン),2297353124,Ranged,Dive roll shoot
-通常攻撃(ツインマシンガン),2297352795,Ranged,Partial gear
-通常攻撃(ツインマシンガン),2297352794,Ranged,Full gear
-通常攻撃(ツインマシンガン),2594009166,Ranged,S-roll shoot
-通常攻撃(ツインマシンガン),2594009167,Ranged,Partial gear
-通常攻撃(ツインマシンガン),2594009160,Ranged,Full gear
-通常攻撃(ツインマシンガン),2594009161,Ranged,S-Roll hit max gear
-エリアルシューティング,891590654,PA,エリアルシューティング (uncharged kick)
-エリアルシューティング,891590641,PA,Partial gear
-エリアルシューティング,891590640,PA,Full gear
-エリアルシューティング,891590643,PA,Aerial Shooting max gear uncharged
-エリアルシューティング,4004748150,PA,エリアルシューティング (charged launch)
-エリアルシューティング,4004748151,PA,Partial gear
-エリアルシューティング,4004748144,PA,Full gear
-エリアルシューティング,4004748145,PA,Aerial Shooting max gear charged kick
-エリアルシューティング,4004760231,PA,エリアルシューティング (first air ヒット)
-エリアルシューティング,4004760230,PA,Partial gear
-エリアルシューティング,4004760225,PA,Full gear
-エリアルシューティング,4004760224,PA,Aerial Shooting max gear charged first air hit
-エリアルシューティング,4004772370,PA,エリアルシューティング (second air ヒット)
-エリアルシューティング,4004772369,PA,Partial gear
-エリアルシューティング,4004772368,PA,Full gear
-エリアルシューティング,4004772375,PA,Aerial Shooting max gear charged second air hit
-バレットスコール,3463411283,PA,バレットスコール start (uncrafted)
-バレットスコール,3463411282,PA,Partial gear
-バレットスコール,3463411293,PA,Full gear
-バレットスコール,443425897,PA,バレットスコール shots (uncrafted)
-バレットスコール,443425896,PA,Partial gear
-バレットスコール,443425899,PA,Full gear
-バレットスコール零式,3463411292,PA,Bullet Squall crafted kick max gear
-バレットスコール零式,443425898,PA,Bullet Squall crafted shots max gear
-デッドアプローチ,232817712,PA,デッドアプローチ
-デッドアプローチ,232817719,PA,Partial gear
-デッドアプローチ,232817718,PA,Full gear
-デッドアプローチ,232817717,PA,Max gear
-メシアタイム,3991628327,PA,メシアタイム (every shot)
-メシアタイム,3991628324,PA,Partial gear
-メシアタイム,3991628325,PA,Full gear
-メシアタイム,3991628330,PA,Messiah Time max gear
-インフィニティファイア,3134942095,PA,インフィニティファイア (initial volley)
-インフィニティファイア,3134942094,PA,Partial gear
-インフィニティファイア,3134942093,PA,Full gear
-インフィニティファイア,3134942092,PA,Infinite Fire max gear
-インフィニティファイア,879653107,PA,インフィニティファイア (final volley)
-インフィニティファイア,879653104,PA,Partial gear
-インフィニティファイア,879653105,PA,Full gear
-インフィニティファイア,879653110,PA,Infinite Fire max gear shotgun
-サテライトエイム,1770510361,PA,サテライトエイム (ヒット 1)
-サテライトエイム,1770510366,PA,Partial gear
-サテライトエイム,1770510367,PA,Full gear
-サテライトエイム,1770510364,PA,Satellite Aim first blast max gear
-サテライトエイム,2273182629,PA,サテライトエイム (ヒット 2)
-サテライトエイム,2273181786,PA,Partial gear
-サテライトエイム,2273181787,PA,Full gear
-サテライトエイム,2273181784,PA,Satellite Aim second blast max gear
-エルダーリベリオン,1108337397,PA,エルダーリベリオン (5 ヒットs)
-エルダーリベリオン,1108337396,PA,Partial gear
-エルダーリベリオン,1108337395,PA,Full gear
-エルダーリベリオン,1108337394,PA,Elder Rebellion max gear first 5 hits
-エルダーリベリオン,4042421111,PA,エルダーリベリオン (2 blasts)
-エルダーリベリオン,4042421110,PA,Partial gear
-エルダーリベリオン,4042421105,PA,Full gear
-エルダーリベリオン,4042421104,PA,Elder Rebellion max gear 2 blasts
-エルダーリベリオン,3412194152,PA,エルダーリベリオン (final blast)
-エルダーリベリオン,3412194159,PA,Partial gear
-エルダーリベリオン,3412194158,PA,Full gear
-エルダーリベリオン,3412194157,PA,Elder Rebellion max gear last blast
-リバースタップ,1550097800,PA,リバースタップ
-リバースタップ,1550097807,PA,Partial gear
-リバースタップ,1550097806,PA,Full gear
-リバースタップ,1550097805,PA,Reverse Tap max gear
-ヒールスタッブ,2371693862,PA,ヒールスタッブ (first kick)
-ヒールスタッブ,2371693863,PA,Partial gear
-ヒールスタッブ,2371693860,PA,Full gear
-ヒールスタッブ,2371693861,PA,Heel Stab first kick max gear
-ヒールスタッブ,4134662873,PA,ヒールスタッブ (uncharged second)
-ヒールスタッブ,4134662878,PA,Partial gear
-ヒールスタッブ,4134662879,PA,Full gear
-ヒールスタッブ,4134662876,PA,Heel Stab uncharged second kick max gear
-ヒールスタッブ,1163390941,PA,ヒールスタッブ (charged second)
-ヒールスタッブ,1163390930,PA,Partial gear
-ヒールスタッブ,1163390931,PA,Full gear
-ヒールスタッブ,1163390928,PA,Heel Stab charged second kick max gear
-ヒールスタッブ,148870087,PA,ヒールスタッブ (charged volley)
-ヒールスタッブ,148870086,PA,Partial gear
-ヒールスタッブ,148870081,PA,Full gear
-ヒールスタッブ,148870080,PA,Heel Stab charged Volley max gear
-シフトピリオド,3102409757,PA,シフトピリオド no gear
-シフトピリオド,2107489028,PA,シフトピリオド no gear
-シフトピリオド,2928127116,PA,シフトピリオド no gear
-シフトピリオド,4206265008,PA,シフトピリオド no gear
-シフトピリオド,2869490729,PA,シフトピリオド no gear final shot
+通常攻撃(ツインマシンガン),3132894402,Ranged,First attack (4x) 0 gear
+通常攻撃(ツインマシンガン),3132894403,Ranged,1 gear
+通常攻撃(ツインマシンガン),3132894401,Ranged,2 gear
+通常攻撃(ツインマシンガン),3132894400,Ranged,3 gear
+通常攻撃(ツインマシンガン),1923738865,Ranged,Second attack (4x) 0 gear
+通常攻撃(ツインマシンガン),1923738870,Ranged,1 gear
+通常攻撃(ツインマシンガン),1923738868,Ranged,2 gear
+通常攻撃(ツインマシンガン),1923738871,Ranged,3 gear
+通常攻撃(ツインマシンガン),1901223401,Ranged,Third attack (5x) 0 gear
+通常攻撃(ツインマシンガン),1901223406,Ranged,1 gear
+通常攻撃(ツインマシンガン),1901223404,Ranged,2 gear
+通常攻撃(ツインマシンガン),1901223407,Ranged,3 gear
+通常攻撃(ツインマシンガン),2297353124,Ranged,Dive roll shoot 0 gear
+通常攻撃(ツインマシンガン),2297352795,Ranged,1 gear
+通常攻撃(ツインマシンガン),2297352794,Ranged,2 gear
+通常攻撃(ツインマシンガン),2594009166,Ranged,S-roll shoot 0 gear
+通常攻撃(ツインマシンガン),2594009167,Ranged,1 gear
+通常攻撃(ツインマシンガン),2594009160,Ranged,2 gear
+通常攻撃(ツインマシンガン),2594009161,Ranged,3 gear
+エリアルシューティング,891590654,PA,Aerial shooting (uncharged kick) 0 gear
+エリアルシューティング,891590641,PA,1 gear
+エリアルシューティング,891590640,PA,2 gear
+エリアルシューティング,891590643,PA,3 gear
+エリアルシューティング,4004748150,PA,Aerial shooting (charged launch) 0 gear
+エリアルシューティング,4004748151,PA,1 gear
+エリアルシューティング,4004748144,PA,2 gear
+エリアルシューティング,4004748145,PA,3 gear
+エリアルシューティング,4004760231,PA,Aerial shooting (first air hit) 0 gear
+エリアルシューティング,4004760230,PA,1 gear
+エリアルシューティング,4004760225,PA,2 gear
+エリアルシューティング,4004760224,PA,3 gear
+エリアルシューティング,4004772370,PA,Aerial shooting (second air hit) 0 gear
+エリアルシューティング,4004772369,PA,1 gear
+エリアルシューティング,4004772368,PA,2 gear
+エリアルシューティング,4004772375,PA,3 gear
+バレットスコール,3463411283,PA,Bullet Squall start (uncrafted) 0 gear
+バレットスコール,3463411282,PA,1 gear
+バレットスコール,3463411293,PA,2 gear
+バレットスコール,3463411292,PA,3 gear
+バレットスコール,443425897,PA,Bullet Squall shots (uncrafted) 0 gear
+バレットスコール,443425896,PA,1 gear
+バレットスコール,443425899,PA,2 gear
+バレットスコール,443425898,PA,3 gear
+デッドアプローチ,232817712,PA,Dead Approach 0 gear
+デッドアプローチ,232817719,PA,1 gear
+デッドアプローチ,232817718,PA,2 gear
+デッドアプローチ,232817717,PA,3 gear
+メシアタイム,3991628327,PA,Messiah Time (every shot) 0 gear
+メシアタイム,3991628324,PA,1 gear
+メシアタイム,3991628325,PA,2 gear
+メシアタイム,3991628330,PA,3 gear
+インフィニティファイア,3134942095,PA,Infinite Fire (initial volley) 0 gear
+インフィニティファイア,3134942094,PA,1 gear
+インフィニティファイア,3134942093,PA,2 gear
+インフィニティファイア,3134942092,PA,3 gear
+インフィニティファイア,879653107,PA,Infinite Fire (final volley) 0 gear
+インフィニティファイア,879653104,PA,1 gear
+インフィニティファイア,879653105,PA,2 gear
+インフィニティファイア,879653110,PA,3 gear
+サテライトエイム,1770510361,PA,Satellite Aim (hit 1) 0 gear
+サテライトエイム,1770510366,PA,1 gear
+サテライトエイム,1770510367,PA,2 gear
+サテライトエイム,1770510364,PA,3 gear
+サテライトエイム,2273182629,PA,Satellite Aim (hit 2) 0 gear
+サテライトエイム,2273181786,PA,1 gear
+サテライトエイム,2273181787,PA,2 gear
+サテライトエイム,2273181784,PA,3 gear
+エルダーリベリオン,1108337397,PA,Elder Rebellion (5 hits) 0 gear
+エルダーリベリオン,1108337396,PA,1 gear
+エルダーリベリオン,1108337395,PA,2 gear
+エルダーリベリオン,1108337394,PA,3 gear
+エルダーリベリオン,4042421111,PA,Elder Rebellion (2 blasts) 0 gear
+エルダーリベリオン,4042421110,PA,1 gear
+エルダーリベリオン,4042421105,PA,2 gear
+エルダーリベリオン,4042421104,PA,3 gear
+エルダーリベリオン,3412194152,PA,Elder Rebellion (final blast) 0 gear
+エルダーリベリオン,3412194159,PA,1 gear
+エルダーリベリオン,3412194158,PA,2 gear
+エルダーリベリオン,3412194157,PA,3 gear
+リバースタッブ,1550097800,PA,Reverse tap 0 gear
+リバースタッブ,1550097807,PA,1 gear
+リバースタッブ,1550097806,PA,2 gear
+リバースタッブ,1550097805,PA,3 gear
+ヒールスタッブ,2371693862,PA,Heel Stab (first kick) 0 gear
+ヒールスタッブ,2371693863,PA,1 gear
+ヒールスタッブ,2371693860,PA,2 gear
+ヒールスタッブ,2371693861,PA,3 gear
+ヒールスタッブ,4134662873,PA,Heel Stab (uncharged second) 0 gear
+ヒールスタッブ,4134662878,PA,1 gear
+ヒールスタッブ,4134662879,PA,2 gear
+ヒールスタッブ,4134662876,PA,3 gear
+ヒールスタッブ,1163390941,PA,Heel Stab (charged second) 0 gear
+ヒールスタッブ,1163390930,PA,1 gear
+ヒールスタッブ,1163390931,PA,2 gear
+ヒールスタッブ,1163390928,PA,3 gear
+ヒールスタッブ,148870087,PA,Heel Stab (charged volley) 0 gear
+ヒールスタッブ,148870086,PA,1 gear
+ヒールスタッブ,148870081,PA,2 gear
+ヒールスタッブ,148870080,PA,3 gear
+シフトピリオド,3102409757,PA,Shift Period 0 gear
 シフトピリオド,3102409758,PA,シフトピリオド 1 gear
-シフトピリオド,2107489029,PA,シフトピリオド 1 gear
-シフトピリオド,2928127107,PA,シフトピリオド 1 gear
-シフトピリオド,4206265011,PA,シフトピリオド 1 gear
-シフトピリオド,2869490728,PA,シフトピリオド 1 gear final shot
 シフトピリオド,3102409759,PA,シフトピリオド 2 gear
+シフトピリオド,3102409728,PA,Shift Period 3 gear
+シフトピリオド,2107489028,PA,Shift Period 0 gear
+シフトピリオド,2107489029,PA,Shift Period 1 gear
 シフトピリオド,2107489030,PA,シフトピリオド 2 gear
+シフトピリオド,2107489031,PA,Shift Period 3 gear
+シフトピリオド,2928127116,PA,Shift Period 0 gear
+シフトピリオド,2928127107,PA,Shift Period 1 gear
 シフトピリオド,2928127106,PA,シフトピリオド 2 gear
+シフトピリオド,2928127105,PA,Shift Period 3 gear
+シフトピリオド,4206265008,PA,Shift Period 0 gear
+シフトピリオド,4206265011,PA,Shift Period 1 gear
 シフトピリオド,4206265010,PA,シフトピリオド 2 gear
+シフトピリオド,4206265013,PA,Shift Period 3 gear
+シフトピリオド,2869490729,PA,Shift Period 0 gear final shot
+シフトピリオド,2869490728,PA,Shift Period 1 gear final shot
 シフトピリオド,2869490902,PA,シフトピリオド 2 gear final shot
-シフトピリオド,3102409728,PA,シフトピリオド max gear
-シフトピリオド,2107489031,PA,シフトピリオド max gear
-シフトピリオド,2928127105,PA,シフトピリオド max gear
-シフトピリオド,4206265013,PA,シフトピリオド max gear
-シフトピリオド,2869490903,PA,Shift Period max gear final shot
-グリムパラージュ,896218141,PA,グリムパラージュ
-グリムパラージュ,896218140,PA,Partial gear
-グリムパラージュ,896218138,PA,Grim Barrage max gear first part
-グリムパラージュ,896218139,PA,Full gear
-グリムパラージュ,1235843178,PA,グリムパラージュ (part 2)
-グリムパラージュ,1235843181,PA,Partial gear
-グリムパラージュ,1235843180,PA,Full gear
-グリムパラージュ,1235843183,PA,Grim Barrage max gear second part
+シフトピリオド,2869490903,PA,Shift Period 3 gear final shot
+グリムバラージュ,896218141,PA,Grim Barrage 0 gear
+グリムバラージュ,896218140,PA,1 gear
+グリムバラージュ,896218139,PA,2 gear
+グリムバラージュ,896218138,PA,3 gear
+グリムバラージュ,1235843178,PA,Grim Barrage (part 2) 0 gear
+グリムバラージュ,1235843181,PA,1 gear
+グリムバラージュ,1235843180,PA,2 gear
+グリムバラージュ,1235843183,PA,3 gear
 通常攻撃(ジェットブーツ),3540874879,Melee,First Attack
 通常攻撃(ジェットブーツ),2778548652,Melee,Second Attack
 通常攻撃(ジェットブーツ),3614558463,Melee,Third Attack
