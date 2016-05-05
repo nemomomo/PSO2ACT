@@ -1,4 +1,4 @@
-Type,ID,Kind,Name
+名前,ID,ACTで表示される種類,詳細
 通常攻撃(素手),3481186334,Melee,素手 first normal attack
 通常攻撃(素手),1578628668,Melee,素手 second normal attack
 通常攻撃(素手),888355388,Melee,素手 third normal attack
@@ -102,7 +102,6 @@ Type,ID,Kind,Name
 ラ・メギド,2458729274,Tech,
 サ・メギド,757530403,Tech,
 サ・メギド,3731229904,Tech,
-メギバース,893379015,Tech,
 ナ・メギド,803375681,Tech,
 ナ・メギド,2368738938,Tech,
 イル・メギド,3791794807,Tech,
@@ -777,8 +776,12 @@ Tダガースピン,3115487272,Special,3 gear
 通常攻撃(ジェットブーツ),3614558463,Melee,Third Attack
 ステップアタック(ジェットブーツ),798466786,Melee,ステップアタック
 通常攻撃(ジェットブーツ),2184540187,Melee,Shift Action
-通常攻撃(ジェットブーツ),1853582271,Special,Jump ヒット
-通常攻撃(ジェットブーツ),747815998,Special,ワンモアジャンプ hit (Bo skill)
+通常攻撃(ジェットブーツ),747815998,Special,Jump hit (Fire)
+通常攻撃(ジェットブーツ),1254493977,Special,Jump hit (Ice)
+通常攻撃(ジェットブーツ),3280158646,Special,Jump hit (Lightning)
+通常攻撃(ジェットブーツ),2954183594,Special,Jump hit (Wind)
+通常攻撃(ジェットブーツ),1853582271,Special,Jump hit (Light)
+通常攻撃(ジェットブーツ),580662444,Special,Jump hit (Dark)
 エレメンタルバースト,844099599,Special,Fire Elemental Burst (Bo skill)
 エレメンタルバースト,436531970,Special,Ice Elemental Burst (Bo skill)
 エレメンタルバースト,3183103116,Special,Lightning Elemental Burst (Bo skill)
@@ -934,10 +937,17 @@ SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
 モノメイト,2925757257,Special,Monomate
 ディメイト,2925757256,Special,Dimate
 トリメイト,2925757259,Special,Trimate
-スターアトマイザー,2925757249,Special,Star Atomzier
-リカバリーポッド,633660526,Special,Recovery Pod
-ジャストリバーサルカバー,2440029502,Special,Just Reversal Cover (Br skill)
+スターアトマイザー,2925757249,Special,Star Atomizer
+リカバリーポッド,633660526,Special,Recovery Pod (found before bosses & リカバリーポッド)
+回復ポッド,458852839,Special,Restoration Pod (random spawn on maps & 回復ポッド)
 ヒーリングガード,662646057,Special,Healing Guard (Hu skill)
+リミットブレイク,140040,Special,Limit Break end (Fi skill)
+ジャストリバーサルカバー,2440029502,Special,Just Reversal Cover (Br skill)
+ヒールシェア,2616315751,Special,Heal Share (Bo skill)
+奪命剣/星天弾/メギバース,893379015,Special,Vampiric Blade/Celestial Bullet/Megiverse (Weapon Potential & Tech)
+弧月蝕,2608912395,Special,Lunar Eclipse (Weapon Potential)
+東京風ハンバーグ,585389849,Special,Tokyo Style Hamburger (Cuisine)
+磁雷針,2370429206,Special,Magnetic Needle (Skyscape areas)
 ガトリングトーチ,1852253343,Special,Normal Turret
 拘束銃座,1358461404,Special,Rodos Grapple Turret
 大砲,2414748436,Special,Facility Cannon
