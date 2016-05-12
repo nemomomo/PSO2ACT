@@ -288,6 +288,7 @@ Enemy Thrown,2164805818,PA,beatdown
 スラッシュレイヴ,799003079,PA,スラッシュレイヴ combo ヒットs
 スラッシュレイヴ,799003014,PA,スラッシュレイヴ finishing shot part 1
 スラッシュレイヴ,1159428500,PA,スラッシュレイヴ finishing shot part 2
+スラッシュレイヴ,3180075746,PA,Slash Rave finishing shot part 2 no stagger
 アディションバレット,2250284406,PA,アディションバレット kick
 アディションバレット,2775356067,PA,アディションバレット shot
 クライゼンシュラーク,4071330996,PA,クライゼンシュラーク (some ヒットs)
@@ -863,7 +864,8 @@ Tダガースピン,3115487272,Special,3 gear
 マロン&メロン爆発死,3460765776,Damage,ストライク後のペットをkillするダメージ
 マロン&メロン暴発,1160289435,Damage,PCへのダメージ
 通常攻撃(ラッピー),2042365716,Melee,Rappy (pet) normal attack
-ラッピーメロディー,12316684,PA,Rappy Melody (pet)
+ラッピーメロディー,3463249617,PA,Rappy Melody attack (pet)
+ラッピーメロディー,12316684,PA,Rappy Melody heal (pet)
 ラッピードロップ,1380676151,PA,Rappy Drop (pet)
 ラッピーキャノン,1380677110,PA,Rappy Cannon (pet)
 ラッピーソニック,401389881,PA,Rappy Sonic (pet)
@@ -916,38 +918,82 @@ Tダガースピン,3115487272,Special,3 gear
 法撃/メギド,1059126347,Special,Mag action (T-ATK Megid)
 SP打撃/乱舞,3104220402,Special,Mag action - 乱舞(S-ATK SP/Clobber)
 SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
-ヘリクス・プロイ,2004640116,Special,PB Helix Proi no-chain+1-chain+2-chain
-ヘリクス・プロイ,1792224906,Special,PB Helix Proi 4-chain
-ヘリクス・イメラ,1075221526,Special,PB Helix Imera no-chain
-アイアス・イメラ,4274907792,Special,PB Ajax Imera no-chain+1-chain+2-chain
-アイアス・イメラ,2379589576,Special,PB Ajax Imera 4-chain
-ケートス・プロイ Proi,4277784487,Special,PB Ketos Proi no-chain+1-chain
-ユリウス・プロイ,2074769727,Special,PB Julius Proi no-chain
+ヘリクス・プロイ,2004640116,Special,PB Helix Proi 0+1+2-chain
+ヘリクス・プロイ,1792224906,Special,PB Helix Proi 3-chain
+ヘリクス・イメラ,1075221526,Special,PB Helix Imera aoe attack 0-chain
+ヘリクス・イメラ,1817839236,Special,PB Helix Imera first hit 1++-chain
+ヘリクス・イメラ,3826344072,Special,PB Helix Imera aoe attack 1+2-chain
+ヘリクス・イメラ,4211237222,Special,PB Helix Imera aoe attack 3-chain           
+ヘリクス・ニフタ,3903398021,Special,PB Helix Nykta horn hit 0+1-chain
+ヘリクス・ニフタ,823402941,Special,PB Helix Nykta horn hit 2+3-chain
+ヘリクス・ニフタ,3627456031,Special,PB Helix Nykta landing hit 0+1-chain
+ヘリクス・ニフタ,2415309454,Special,PB Helix Nykta landing hit 2+3-chain
+アイアス・プロイ,718460570,Special,PB Ajax Proi 0+1+2-chain
+アイアス・プロイ,498592293,Special,PB Ajax Proi 3-chain
+アイアス・イメラ,4274907792,Special,PB Ajax Imera 0+1+2-chain
+アイアス・イメラ,2379589576,Special,PB Ajax Imera 3-chain
+アイアス・ニフタ,3512301214,Special,PB Ajax Nykta first hit 0+1-chain
+アイアス・ニフタ,1846509854,Special,PB Ajax Nykta first hit 2+3-chain
+アイアス・ニフタ,3625928312,Special,PB Ajax Nykta second hit 0+1-chain
+アイアス・ニフタ,2811060000,Special,PB Ajax Nykta second hit 2+3-chain
+ケートス・プロイ,4277784487,Special,PB Ketos Proi 0+1+2+3-chain
+ケートス・イメラ,430308113,Special,PB Ketos Imera 0-chain
+ケートス・イメラ,413582417,Special,PB Ketos Imera 1-chain
+ケートス・イメラ,4017106933,Special,PB Ketos Imera 2-chain
+ケートス・イメラ,380422613,Special,PB Ketos Imera 3-chain
+ケートス・ニフタ,1161221232,Special,PB Ketos Nykta 0+1-chain
+ケートス・ニフタ,320287461,Special,PB Ketos Nykta 2-chain
+ケートス・ニフタ,3929437971,Special,PB Ketos Nykta 3-chain
+ユリウス・プロイ,2074769727,Special,PB Julius Proi 0-chain
 ユリウス・プロイ,2074769724,Special,PB Julius Proi 1-chain
-ユリウス・ニフタ,764702094,Special,PB Julius Nifta no chain
-ユリウス・ニフタ,764702093,Special,PB Julius Nifta 2-chain
-ユリウス・ニフタ,764702092,Special,PB Julius Nifta 3-chain
-ユリウス・ニフタ,764702091,Special,PB Julius Nifta 4-chain
+ユリウス・プロイ,2074769725,Special,PB Julius Proi 2-chain
+ユリウス・プロイ,2074769722,Special,PB Julius Proi 3-chain
+ユリウス・プロイ,2224628886,Special,PB Julius Proi final blast 0-chain
+ユリウス・プロイ,2224628885,Special,PB Julius Proi final blast 1-chain
+ユリウス・プロイ,2224628884,Special,PB Julius Proi final blast 2-chain
+ユリウス・プロイ,2224628883,Special,PB Julius Proi final blast 3-chain
+ユリウス・イメラ,3412523140,Special,PB Julius Imera 0-chain
+ユリウス・イメラ,3412523139,Special,PB Julius Imera 1-chain
+ユリウス・イメラ,3412523138,Special,PB Julius Imera 2-chain
+ユリウス・イメラ,3412523137,Special,PB Julius Imera 3-chain
+ユリウス・ニフタ,764702094,Special,PB Julius Nykta 0-chain
+ユリウス・ニフタ,764702093,Special,PB Julius Nykta 1-chain
+ユリウス・ニフタ,764702092,Special,PB Julius Nykta 2-chain
+ユリウス・ニフタ,764702091,Special,PB Julius Nykta 3-chain
+イリオス・プロイ,2814861617,Special,PB Ilios Proi 0-chain
+イリオス・プロイ,2814861618,Special,PB Ilios Proi 1-chain
+イリオス・プロイ,2814861619,Special,PB Ilios Proi 2-chain
+イリオス・プロイ,2814861772,Special,PB Ilios Proi 3-chain
+イリオス・イメラ,2207342095,Special,PB Ilios Imera 0-chain
+イリオス・イメラ,2207342092,Special,PB Ilios Imera 1-chain
+イリオス・イメラ,2207342093,Special,PB Ilios Imera 2-chain
+イリオス・イメラ,2207342090,Special,PB Ilios Imera 3-chain
+イリオス・ニフタ,4037912096,Special,PB Ilios Nykta 0-chain
+イリオス・ニフタ,4037912097,Special,PB Ilios Nykta 1-chain
+イリオス・ニフタ,4037912102,Special,PB Ilios Nykta 2-chain
+イリオス・ニフタ,4037912103,Special,PB Ilios Nykta 3-chain
 ブーストキック,85301614,Special,Tokyo speed-pad kick level 1
 ブーストキック,85302964,Special,Tokyo speed-pad kick level 2 
 ブーストキック,85303029,Special,Tokyo speed-pad kick level 3
 ブーストキック,85301612,Special,Tokyo speed-pad kick level 1 on cars
 ブーストキック,85302966,Special,Tokyo speed-pad kick level 2 on cars
 ブーストキック,85303031,Special,Tokyo speed-pad kick level 3 on cars
-モノメイト,2925757257,Special,Monomate
-ディメイト,2925757256,Special,Dimate
-トリメイト,2925757259,Special,Trimate
+モノメイト,2925757257,Special,Monomate (Automate Halfline/Deadline also uses this)
+ディメイト,2925757256,Special,Dimate (Automate Halfline/Deadline also uses this)
+トリメイト,2925757259,Special,Trimate (Automate Halfline/Deadline also uses this)
 スターアトマイザー,2925757249,Special,Star Atomizer
 リカバリーポッド,633660526,Special,Recovery Pod (found before bosses & リカバリーポッド)
 回復ポッド,458852839,Special,Restoration Pod (random spawn on maps & 回復ポッド)
 ヒーリングガード,662646057,Special,Healing Guard (Hu skill)
-リミットブレイク,140040,Special,Limit Break end (Fi skill)
+インジュリー,140040,Special,'Wound' state ending (Limit Break/PP Convert & Bayaribbles/Guar-Zigmorde/Hunar/Blu Ringahda/Viel all inflict this)
 ジャストリバーサルカバー,2440029502,Special,Just Reversal Cover (Br skill)
 ヒールシェア,2616315751,Special,Heal Share (Bo skill)
-奪命剣/星天弾/メギバース,893379015,Special,Vampiric Blade/Celestial Bullet/Megiverse (Weapon Potential & Tech)
+HP吸収,893379015,Special,Vampiric Blade/Celestial Bullet/Megiverse all belong here
 弧月蝕,2608912395,Special,Lunar Eclipse (Weapon Potential)
+Emperappy hug <3,2088559161,Special,Emperappy hug <3
 東京風ハンバーグ,585389849,Special,Tokyo Style Hamburger (Cuisine)
 磁雷針,2370429206,Special,Magnetic Needle (Skyscape areas)
+サークルレーザー,2939688058,Special,Circle Laser (random spawn on maps)
 ガトリングトーチ,1852253343,Special,Normal Turret
 拘束銃座,1358461404,Special,Rodos Grapple Turret
 大砲,2414748436,Special,Facility Cannon
