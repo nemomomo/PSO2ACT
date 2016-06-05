@@ -847,6 +847,7 @@ Tダガースピン,3115487272,Special,3 gear
 マロンストライク,3595323408,PA,Marron Strike 0～2 hit
 マロンストライク,3595323990,PA,Marron Strike 3～5 hit
 マロンストライク,3595323799,PA,Marron Strike 6 hit (Max)
+マロンストライク(暴発),4118650930,PA,Maron Strike explosion
 マロンブレイク,115059488,PA,Marron Break
 マロンチェイサー,115059427,PA,Marron Chaser
 マロンカース,1099252288,PA,Marron Curse Hit
@@ -857,12 +858,12 @@ Tダガースピン,3115487272,Special,3 gear
 メロンストライク,3889466000,PA,Melon Strike 0 hit
 メロンストライク,3889465937,PA,Melon Strike 1 hit
 メロンストライク,3889465879,PA,Melon Strike 2 hit (Max)
+メロンストライク(暴発),1160289435,PA,Melon Strike explosion
 メロンブレイク,3771080959,PA,Melon Break
 メロンチェイサー,3771080766,PA,Melon Chaser
 メロンカース,745748621,PA,Melon Curse Hit
 メロンカース,745791480,PA,Melon Curse Dot
 マロン&メロン爆発死,3460765776,Damage,ストライク後のペットをkillするダメージ
-マロン&メロン暴発,1160289435,Damage,PCへのダメージ
 通常攻撃(ラッピー),2042365716,Melee,Rappy (pet) normal attack
 ラッピーメロディー,3463249617,PA,Rappy Melody attack (pet)
 ラッピーメロディー,12316684,PA,Rappy Melody heal (pet)
