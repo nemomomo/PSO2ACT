@@ -48,6 +48,9 @@
 イル・バータ,1097489198,Tech,Charged3
 ゾンデ,1715327776,Tech,Charged
 ゾンデ,554054867,Tech,Uncharged
+零式ゾンデ,553845451,Tech,Zonde (type-0 craft) uncharged
+零式ゾンデ,3325804278,Tech,charged
+零式ゾンデ,3480669127,Tech,charged final blast
 ギ・ゾンデ,71596560,Tech,Charged
 ギ・ゾンデ,3022246617,Tech,Uncharged
 ラ・ゾンデ,3676394406,Tech,Charged
@@ -74,6 +77,11 @@
 ザンバース,2106601422,Tech,
 ナ・ザン,1233164694,Tech,Charged
 ナ・ザン,1497197786,Tech,Uncharged
+零式ナ・ザン,3917512316,Tech,Nazan (type-0 craft) uncharged
+零式ナ・ザン,1490526560,Tech,second
+零式ナ・ザン,3510056594,Tech,Nazan charged first hit
+零式ナ・ザン,2994867107,Tech,second hit
+零式ナ・ザン,1437435851,Tech,loads of hits
 イル・ザン,2891550606,Tech,Charged
 イル・ザン,1944592516,Tech,Uncharged
 グランツ,696766223,Tech,Charged
@@ -245,6 +253,9 @@ Enemy Thrown,2164805818,PA,beatdown
 アザーサイクロン,1850125110,PA,アザーサイクロン grab
 アザーサイクロン,1871999855,PA,アザーサイクロン cyclone
 アザーサイクロン,455829749,PA,アザーサイクロン fling
+アザーサイクロン零式,1370775705,PA,Other Cyclone craft grab
+アザーサイクロン零式,3838831464,PA,spin
+アザーサイクロン零式,3070400580,PA,throw
 アザースピン,781364083,PA,アザースピン start
 アザースピン,516963559,PA,アザースピン spin
 アザースピン,1667539754,PA,アザースピン end
@@ -327,6 +338,7 @@ DS かまいたち,2620269005,Special,level 3
 デッドリーアーチャー,4243814605,PA,デッドリーアーチャー
 アクロエフェクト,2726424864,PA,アクロエフェクト
 デッドリーサークル,1319999679,PA,デッドリーサークル
+デッドリーサークル零式,1215958429,PA,Deadly Circle craft
 ケイオスライザー,3025396833,PA,ケイオスライザー (no gear)
 ケイオスライザー,3025396896,PA,ケイオスライザー (Level 2 gear)
 ケイオスライザー,3025396960,PA,ケイオスライザー
@@ -557,6 +569,10 @@ Tダガースピン,3115487272,Special,3 gear
 ケストレルランページ,2840651036,PA,- One gear bar
 ケストレルランページ,2840651039,PA,- Two gear bars
 ケストレルランページ,2840651038,PA,- Three gear bars
+ケストレルランページ零式,4277013577,PA,Kestrel Rampage craft no gear
+ケストレルランページ零式,4277013576,PA,1 gear
+ケストレルランページ零式,4277013623,PA,2 gear
+ケストレルランページ零式,4277013622,PA,3 gear
 イモータルダーヴ,823939487,PA,イモータルダーヴ (ground ヒット part 1)
 イモータルダーヴ,823939486,PA,- One gear bar
 イモータルダーヴ,823939485,PA,- Two gear bars
@@ -704,6 +720,18 @@ Tダガースピン,3115487272,Special,3 gear
 インフィニティファイア,879653104,PA,1 gear
 インフィニティファイア,879653105,PA,2 gear
 インフィニティファイア,879653110,PA,3 gear
+インフィニティファイア零式,1612843143,PA,Infinite Fire craft 0 gear shots
+インフィニティファイア零式,2004097432,PA,kick
+インフィニティファイア零式,1345025835,PA,final blast
+インフィニティファイア零式,1612843192,PA,1 gear shots
+インフィニティファイア零式,2004097433,PA,kick
+インフィニティファイア零式,1345025834,PA,final blast
+インフィニティファイア零式,1612843193,PA,2 gear shots
+インフィニティファイア零式,2004097434,PA,kick
+インフィニティファイア零式,1345025833,PA,blast
+インフィニティファイア零式,1612843194,PA,3 gear shots
+インフィニティファイア零式,2004097435,PA,kick
+インフィニティファイア零式,1345025832,PA,final blast
 サテライトエイム,1770510361,PA,Satellite Aim (hit 1) 0 gear
 サテライトエイム,1770510366,PA,1 gear
 サテライトエイム,1770510367,PA,2 gear
