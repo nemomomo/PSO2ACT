@@ -1,4 +1,4 @@
-名前,ID,ACTで表示される種類,詳細
+名前,ID,種類,詳細
 通常攻撃(素手),3481186334,Melee,素手 first normal attack
 通常攻撃(素手),1578628668,Melee,素手 second normal attack
 通常攻撃(素手),888355388,Melee,素手 third normal attack
@@ -643,6 +643,7 @@ Tダガースピン,3115487272,Special,3 gear
 通常攻撃(ランチャー),594271098,Ranged,Second
 通常攻撃(ランチャー),594270780,Ranged,Third
 通常攻撃(ランチャー),2731320054,Ranged,Dive roll shoot
+アナザーランチャーモード(仮),0000000011,Ranged,skill ring 
 ミラージュショット,3433218069,Special,Mirage Shot (Ra skill)
 パニックショット,1201754534,Special,Panic Shot (Ra skill)
 ジェルンショット,2734794071,Special,Jellen Shot (Ra skill)
@@ -918,6 +919,14 @@ Tダガースピン,3115487272,Special,3 gear
 ヴィオラスタンプ,375503608,PA,ヴィオラスタンプ hard hit (ヴィオラチェンジ version)
 ヴィオラパルサー,4234893896,PA,ヴィオラパルサー first hit (ヴィオラチェンジ version)
 ヴィオラパルサー,444146511,PA,ヴィオラパルサー DoT (ヴィオラチェンジ version)
+通常攻撃(シンクロウ)(仮),0000000000,Melee,シンクロウ first normal attack
+通常攻撃(シンクロウ)(仮),0000000001,Melee,シンクロウ second normal attack
+通常攻撃(シンクロウ)(仮),0000000002,Melee,シンクロウ third normal attack
+シンクロウザン(仮),0000000003,PA,『シンクロウ』用のフォトンアーツ。<br>高速で接近し、フォトンの刃で一閃。<br>「繋ぎ」によって威力が上昇する。
+シンクロウキャク(仮),0000000004,PA,『シンクロウ』用のフォトンアーツ。<br>敵の攻撃を回転でいなし、蹴り払う。<br>「繋ぎ」によって攻撃範囲が拡大する。
+シンクロウケン(仮),0000000005,PA,『シンクロウ』用のフォトンアーツ。<br>拳による怒涛の乱打をお見舞いする。<br>「繋ぎ」によってヒット数が増加する。
+シンクロウダン(仮),0000000006,PA,『シンクロウ』用のフォトンアーツ。<br>プレイヤーの元へ戻り、気弾を発射。<br>「繋ぎ」によってバインド効果が発生。
+シンクロウゲキ(仮),0000000007,PA,『シンクロウ』用のフォトンアーツ。<br>全身の力を乗せた一撃を叩き込む。<br>「繋ぎ」の回数に応じて、威力が上昇。
 打撃/アタック,2667138551,Special,Mag action (S-ATK Attack)
 打撃/ブロー,3296842070,Special,Mag action (S-ATK Blow)
 打撃/アッパー,546125641,Special,Mag action (S-ATK Upper)
@@ -1007,6 +1016,7 @@ SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
 ブーストキック,85301612,Special,Tokyo speed-pad kick level 1 on cars
 ブーストキック,85302966,Special,Tokyo speed-pad kick level 2 on cars
 ブーストキック,85303031,Special,Tokyo speed-pad kick level 3 on cars
+ライドロイド射出(仮),0000000008,Special,ライドロイド
 モノメイト,2925757257,Special,Monomate (Automate Halfline/Deadline also uses this)
 ディメイト,2925757256,Special,Dimate (Automate Halfline/Deadline also uses this)
 トリメイト,2925757259,Special,Trimate (Automate Halfline/Deadline also uses this)
@@ -1019,6 +1029,7 @@ SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
 ヒールシェア,2616315751,Special,Heal Share (Bo skill)
 HP吸収,893379015,Special,Vampiric Blade/Celestial Bullet/Megiverse all belong here
 弧月蝕,2608912395,Special,Lunar Eclipse (Weapon Potential)
+飛斬翔刃(仮),0000000012,Special,斬撃(フォームシリーズ)(Weapon Potential)
 Emperappy hug <3,2088559161,Special,Emperappy hug <3
 東京風ハンバーグ,585389849,Special,Tokyo Style Hamburger (Cuisine)
 磁雷針,2370429206,Special,Magnetic Needle (Skyscape areas)
