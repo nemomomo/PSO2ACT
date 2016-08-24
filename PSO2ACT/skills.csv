@@ -643,7 +643,7 @@ Tダガースピン,3115487272,Special,3 gear
 通常攻撃(ランチャー),594271098,Ranged,Second
 通常攻撃(ランチャー),594270780,Ranged,Third
 通常攻撃(ランチャー),2731320054,Ranged,Dive roll shoot
-アナザーランチャーモード(仮),0000000011,Ranged,skill ring 
+アナザーランチャーモード(仮),0000000011,Ranged,skill ring
 ミラージュショット,3433218069,Special,Mirage Shot (Ra skill)
 パニックショット,1201754534,Special,Panic Shot (Ra skill)
 ジェルンショット,2734794071,Special,Jellen Shot (Ra skill)
@@ -919,7 +919,7 @@ Tダガースピン,3115487272,Special,3 gear
 ヴィオラスタンプ,375503608,PA,ヴィオラスタンプ hard hit (ヴィオラチェンジ version)
 ヴィオラパルサー,4234893896,PA,ヴィオラパルサー first hit (ヴィオラチェンジ version)
 ヴィオラパルサー,444146511,PA,ヴィオラパルサー DoT (ヴィオラチェンジ version)
-通常攻撃(シンクロウ)(仮),0000000000,Melee,シンクロウ first normal attack
+通常攻撃(シンクロウ)(仮),1147655708,Melee,シンクロウ first normal attack
 通常攻撃(シンクロウ)(仮),0000000001,Melee,シンクロウ second normal attack
 通常攻撃(シンクロウ)(仮),0000000002,Melee,シンクロウ third normal attack
 シンクロウザン(仮),0000000003,PA,『シンクロウ』用のフォトンアーツ。<br>高速で接近し、フォトンの刃で一閃。<br>「繋ぎ」によって威力が上昇する。
@@ -1016,7 +1016,9 @@ SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
 ブーストキック,85301612,Special,Tokyo speed-pad kick level 1 on cars
 ブーストキック,85302966,Special,Tokyo speed-pad kick level 2 on cars
 ブーストキック,85303031,Special,Tokyo speed-pad kick level 3 on cars
-ライドロイド射出(仮),0000000008,Special,ライドロイド
+ライドロイド射出(仮),3491866260,Special,ライドロイド
+ライドロイド(仮),2056025809,Special,ライドロイド normal 通常 wip
+ライドロイド(仮),1247666429,Special,ライドロイド spped up スピードアップしている状態で wip
 モノメイト,2925757257,Special,Monomate (Automate Halfline/Deadline also uses this)
 ディメイト,2925757256,Special,Dimate (Automate Halfline/Deadline also uses this)
 トリメイト,2925757259,Special,Trimate (Automate Halfline/Deadline also uses this)
