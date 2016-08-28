@@ -919,14 +919,14 @@ Tダガースピン,3115487272,Special,3 gear
 ヴィオラスタンプ,375503608,PA,ヴィオラスタンプ hard hit (ヴィオラチェンジ version)
 ヴィオラパルサー,4234893896,PA,ヴィオラパルサー first hit (ヴィオラチェンジ version)
 ヴィオラパルサー,444146511,PA,ヴィオラパルサー DoT (ヴィオラチェンジ version)
-通常攻撃(シンクロウ)(仮),1147655708,Melee,シンクロウ first normal attack
-通常攻撃(シンクロウ)(仮),0000000001,Melee,シンクロウ second normal attack
-通常攻撃(シンクロウ)(仮),0000000002,Melee,シンクロウ third normal attack
-シンクロウザン(仮),0000000003,PA,『シンクロウ』用のフォトンアーツ。<br>高速で接近し、フォトンの刃で一閃。<br>「繋ぎ」によって威力が上昇する。
-シンクロウキャク(仮),0000000004,PA,『シンクロウ』用のフォトンアーツ。<br>敵の攻撃を回転でいなし、蹴り払う。<br>「繋ぎ」によって攻撃範囲が拡大する。
-シンクロウケン(仮),0000000005,PA,『シンクロウ』用のフォトンアーツ。<br>拳による怒涛の乱打をお見舞いする。<br>「繋ぎ」によってヒット数が増加する。
-シンクロウダン(仮),0000000006,PA,『シンクロウ』用のフォトンアーツ。<br>プレイヤーの元へ戻り、気弾を発射。<br>「繋ぎ」によってバインド効果が発生。
-シンクロウゲキ(仮),0000000007,PA,『シンクロウ』用のフォトンアーツ。<br>全身の力を乗せた一撃を叩き込む。<br>「繋ぎ」の回数に応じて、威力が上昇。
+通常攻撃(シンクロウ),1147655708,Melee,シンクロウ first normal attack
+通常攻撃(シンクロウ),1147655711,Melee,Shinkirou second normal hit
+通常攻撃(シンクロウ),1147655710,Melee,Shinkirou third normal hit
+シンクロウザン,2368496396,PA,『シンクロウ』用のフォトンアーツ。<br>高速で接近し、フォトンの刃で一閃。<br>「繋ぎ」によって威力が上昇する。
+シンクロウケン,2368496267,PA,『シンクロウ』用のフォトンアーツ。<br>拳による怒涛の乱打をお見舞いする。<br>「繋ぎ」によってヒット数が増加する。
+シンクロウダン,2368496200,PA,『シンクロウ』用のフォトンアーツ。<br>プレイヤーの元へ戻り、気弾を発射。<br>「繋ぎ」によってバインド効果が発生。
+シンクロウキャク,2368496330,PA,『シンクロウ』用のフォトンアーツ。<br>敵の攻撃を回転でいなし、蹴り払う。<br>「繋ぎ」によって攻撃範囲が拡大する。
+シンクロウゲキ,2905893090,PA,『シンクロウ』用のフォトンアーツ。<br>全身の力を乗せた一撃を叩き込む。<br>「繋ぎ」の回数に応じて、威力が上昇。
 打撃/アタック,2667138551,Special,Mag action (S-ATK Attack)
 打撃/ブロー,3296842070,Special,Mag action (S-ATK Blow)
 打撃/アッパー,546125641,Special,Mag action (S-ATK Upper)
@@ -1016,9 +1016,18 @@ SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
 ブーストキック,85301612,Special,Tokyo speed-pad kick level 1 on cars
 ブーストキック,85302966,Special,Tokyo speed-pad kick level 2 on cars
 ブーストキック,85303031,Special,Tokyo speed-pad kick level 3 on cars
-ライドロイド射出(仮),3491866260,Special,ライドロイド
-ライドロイド(仮),2056025809,Special,ライドロイド normal 通常 wip
-ライドロイド(仮),1247666429,Special,ライドロイド spped up スピードアップしている状態で wip
+ライドロイド,3491866260,Special,ライドロイド射出
+ライドロイド,2056025809,Special,ライドロイド normal 通常 wip
+ライドロイド,2534881408,Special,ライドロイド hit forward stop
+ライドロイド,2600476838,Special,ライドロイド 緊急回避
+ライドロイド,1247666429,Special,ライドロイド ジャストタイミングブースト
+ライドロイド,3750571080,Special,ライドロイド UFO ?
+ライドロイド,3642240295,Special,ライドロイド UFO core ?
+ライドロイド,651750924,Special,Big UFO hit?
+ライドロイド,2452463220,Special,something relating to big ufo and rideroid
+ライドロイド,1732461796,Special,something relating to big ufo and rideroid
+ライドロイド,3809261131,Special,something relating to big ufo and rideroid
+エネルギーリング,645891880,Special,ライドロイド エネルギーリング
 モノメイト,2925757257,Special,Monomate (Automate Halfline/Deadline also uses this)
 ディメイト,2925757256,Special,Dimate (Automate Halfline/Deadline also uses this)
 トリメイト,2925757259,Special,Trimate (Automate Halfline/Deadline also uses this)
