@@ -23,6 +23,10 @@
 ラ・フォイエ,3160663286,Tech,Charged
 サ・フォイエ,992062163,Tech,Uncharged
 サ・フォイエ,1313506350,Tech,Charged
+零式サ・フォイエ,1314363598,Tech,Uncharged
+零式サ・フォイエ,2566461378,Tech,Uncharged
+零式サ・フォイエ,166001586,Tech,Charged
+零式サ・フォイエ,2588035419,Tech,Charged
 ナ・フォイエ,3050042460,Tech,Ground Uncharged
 ナ・フォイエ,4054265489,Tech,Ground Charged
 ナ・フォイエ,828617961,Tech,Direct Uncharged
@@ -108,6 +112,8 @@
 ギ・メギド,2076503293,Tech,
 ラ・メギド,1346510043,Tech,
 ラ・メギド,2458729274,Tech,
+零式ラ・メギド,1488338153,Tech,Uncharged
+零式ラ・メギド,3108138604,Teh,Charged
 サ・メギド,757530403,Tech,
 サ・メギド,3731229904,Tech,
 ナ・メギド,803375681,Tech,
@@ -1040,7 +1046,9 @@ SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
 ヒールシェア,2616315751,Special,Heal Share (Bo skill)
 HP吸収,893379015,Special,Vampiric Blade/Celestial Bullet/Megiverse all belong here
 弧月蝕,2608912395,Special,Lunar Eclipse (Weapon Potential)
-飛斬翔刃(仮),0000000012,Special,斬撃(フォームシリーズ)(Weapon Potential)
+飛斬翔刃(仮),3065779197,Special,斬撃(フォームシリーズ)(Weapon Potential)
+飛斬翔刃(仮),3065779131,Special,斬撃(フォームシリーズ)(Weapon Potential)
+飛斬翔刃(仮),3065778236,Special,斬撃(フォームシリーズ)(Weapon Potential)
 Emperappy hug <3,2088559161,Special,Emperappy hug <3
 東京風ハンバーグ,585389849,Special,Tokyo Style Hamburger (Cuisine)
 磁雷針,2370429206,Special,Magnetic Needle (Skyscape areas)
