@@ -153,12 +153,19 @@
 ジャストガード,1612949165,Special,Hunter Weapon JG
 スナッチステップ,3943870236,Melee,Braver スナッチステップ
 ステップアタック(ソード),1216456228,Melee,Sword
+ステップアタック(ソード),1279043576,Melee,サクリファイスバイト零式
 通常攻撃(ソード),1215379240,Melee,Sword 1st
 通常攻撃(ソード),1215379433,Melee,Sword 2nd
 通常攻撃(ソード),1215367338,Melee,Sword 3rd
+通常攻撃(ソード),2001359545,Melee,Sword 1st サクリファイスバイト零式
+通常攻撃(ソード),2002747972,Melee,Sword 2nd サクリファイスバイト零式
+通常攻撃(ソード),2084739075,Melee,Sword 3rd サクリファイスバイト零式
 通常攻撃(ソード),1331225593,Melee,Sword air first normal attack 
 通常攻撃(ソード),1331225146,Melee,Sword air second normal attack
 通常攻撃(ソード),1331225211,Melee,Sword air third normal attack
+通常攻撃(ソード),1351584013,Melee,Sword air first normal attack サクリファイスバイト零式
+通常攻撃(ソード),1353244642,Melee,Sword air second normal attack サクリファイスバイト零式
+通常攻撃(ソード),1354018567,Melee,Sword air third normal attack サクリファイスバイト零式
 ライジングエッジ,1227622308,PA,Start
 ライジングエッジ,1224723795,PA,Spin
 ツイスターフォール,1224723730,PA,Spin
@@ -195,6 +202,10 @@ Enemy Thrown,2164805818,PA,beatdown
 サクリファイスバイト,2275427188,PA,サクリファイスバイト charges
 サクリファイスバイト,985472180,PA,サクリファイスバイト short-charge
 サクリファイスバイト,2606728976,PA,サクリファイスバイト smack
+サクリファイスバイト零式,1040118139,PA,latch
+サクリファイスバイト零式,179195970,PA,charges
+サクリファイスバイト零式,3909378260,PA,short-charge
+サクリファイスバイト零式,3040541025,PA,smack
 イグナイトパリング,3096775537,PA,イグナイトパリング first four strikes (parried version uses this as well)
 イグナイトパリング,54200585,PA,イグナイトパリング final two strikes
 イグナイトパリング,498184876,PA,Ignition Parry parried first hit
@@ -469,6 +480,8 @@ Tダガースピン,3115487272,Special,3 gear
 ストレイトチャージ,3964807003,PA,ストレイトチャージ (after first) charge
 ストレイトチャージ,524347705,PA,ストレイトチャージ (first ヒット) uncharge
 ストレイトチャージ,2294749657,PA,ストレイトチャージ (after first) uncharge
+ストレイトチャージ零式,1438955103,PA,?
+ストレイトチャージ零式,3383204495,PA,?
 クエイクハウリング,895673964,PA,クエイクハウリング
 サプライズナックル,71364306,PA,サプライズナックル
 フラッシュサウザンド,1586239574,PA,フラッシュサウザンド uppercut
@@ -609,6 +622,8 @@ Tダガースピン,3115487272,Special,3 gear
 カミカゼアロウ,3470042646,PA,カミカゼアロウ fling (charged)
 カミカゼアロウ,3439973654,PA,カミカゼアロウ rebound (charged)
 シャープボマー,294311563,PA,シャープボマー
+シャープボマー零式,3671759171,PA,Uncharged
+シャープボマー零式,3671760384,PA,Charged
 ラストネメシス,3765323771,PA,ラストネメシス
 トリットシューター,294299758,PA,トリットシューター kicks
 トリットシューター,294300276,PA,トリットシューター shot
@@ -634,6 +649,7 @@ Tダガースピン,3115487272,Special,3 gear
 グローリーレイン,1190704694,PA,Glorious Rain start
 グローリーレイン,220056714,PA,グローリーレイン
 パラレルスライダー,220057419,PA,パラレルスライダー
+パラレルスライダー零式,3857649477,PA,パラレルスライダー零式
 サテライトカノン,2295790933,PA,サテライトカノン (no charge)
 サテライトカノン,2295790868,PA,サテライトカノン (half charge)
 サテライトカノン,2295790295,PA,サテライトカノン (full charge)
@@ -831,6 +847,10 @@ Tダガースピン,3115487272,Special,3 gear
 ストライクガスト,1301043509,PA,ストライクガスト (charged first four)
 ストライクガスト,3955365271,PA,ストライクガスト (final)
 ストライクガスト,3088217635,PA,ストライクガスト (interrupt)
+ストライクガスト零式,1071365573,PA,?
+ストライクガスト零式,452976794,PA,interrupt ?
+ストライクガスト零式,1462163353,PA,?
+ストライクガスト零式,1808168665,PA,interrupt ?
 グランウェイヴ,424716447,PA,グランウェイヴ (first kick)
 グランウェイヴ,3764244857,PA,グランウェイヴ (kick volle)
 グランウェイヴ,147222821,PA,グランウェイヴ (interrupt)
