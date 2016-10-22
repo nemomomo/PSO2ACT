@@ -153,19 +153,19 @@
 ジャストガード,1612949165,Special,Hunter Weapon JG
 スナッチステップ,3943870236,Melee,Braver スナッチステップ
 ステップアタック(ソード),1216456228,Melee,Sword
-ステップアタック(ソード),1279043576,Melee,サクリファイスバイト零式
+ステップアタック(零式),1279043576,Melee,サクリファイスバイト零式
 通常攻撃(ソード),1215379240,Melee,Sword 1st
 通常攻撃(ソード),1215379433,Melee,Sword 2nd
 通常攻撃(ソード),1215367338,Melee,Sword 3rd
-通常攻撃(ソード),2001359545,Melee,Sword 1st サクリファイスバイト零式
-通常攻撃(ソード),2002747972,Melee,Sword 2nd サクリファイスバイト零式
-通常攻撃(ソード),2084739075,Melee,Sword 3rd サクリファイスバイト零式
+通常攻撃(零式),2001359545,Melee,Sword 1st サクリファイスバイト零式
+通常攻撃(零式),2002747972,Melee,Sword 2nd サクリファイスバイト零式
+通常攻撃(零式),2084739075,Melee,Sword 3rd サクリファイスバイト零式
 通常攻撃(ソード),1331225593,Melee,Sword air first normal attack 
 通常攻撃(ソード),1331225146,Melee,Sword air second normal attack
 通常攻撃(ソード),1331225211,Melee,Sword air third normal attack
-通常攻撃(ソード),1351584013,Melee,Sword air first normal attack サクリファイスバイト零式
-通常攻撃(ソード),1353244642,Melee,Sword air second normal attack サクリファイスバイト零式
-通常攻撃(ソード),1354018567,Melee,Sword air third normal attack サクリファイスバイト零式
+通常攻撃(零式),1351584013,Melee,Sword air first normal attack サクリファイスバイト零式
+通常攻撃(零式),1353244642,Melee,Sword air second normal attack サクリファイスバイト零式
+通常攻撃(零式),1354018567,Melee,Sword air third normal attack サクリファイスバイト零式
 ライジングエッジ,1227622308,PA,Start
 ライジングエッジ,1224723795,PA,Spin
 ツイスターフォール,1224723730,PA,Spin
@@ -665,7 +665,6 @@ Tダガースピン,3115487272,Special,3 gear
 通常攻撃(ランチャー),594271098,Ranged,Second
 通常攻撃(ランチャー),594270780,Ranged,Third
 通常攻撃(ランチャー),2731320054,Ranged,Dive roll shoot
-アナザーランチャーモード(仮),0000000011,Ranged,skill ring
 ミラージュショット,3433218069,Special,Mirage Shot (Ra skill)
 パニックショット,1201754534,Special,Panic Shot (Ra skill)
 ジェルンショット,2734794071,Special,Jellen Shot (Ra skill)
@@ -873,6 +872,16 @@ Tダガースピン,3115487272,Special,3 gear
 ワンダパルサー,4223323079,PA,ワンダパルサー
 ワンダスライサー,2918501417,PA,ワンダスライサー
 ワンダスライサー,2918501480,PA,ワンダスライサー
+通常攻撃(ジンガ),2981353400,Melee,Jinga first normal attack
+通常攻撃(ジンガ),2981353465,Melee,Jinga second normal attack
+通常攻撃(ジンガ),2981351487,Melee,Jinga third normal attack
+ジンガスライサー,3467827123,PA,『ジンガ』用のフォトンアーツ。<br>広範囲にわたる素早い双撃で<br>数多の敵を同時に攻撃する。
+ジンガスライサー,3467827186,PA,duplication
+ジンガショック,2252116314,PA,『ジンガ』用のフォトンアーツ。<br>閃光を伴う衝撃波を発生させ<br>敵の目をくらませ、足止めをする。
+ジンガブレイク,2252115978,PA,『ジンガ』用のフォトンアーツ。<br>円を描くような、強力な一撃を放つ。<br>範囲は狭いが、周囲の敵をなぎ倒せる。
+ジンガパルサー,3369486556,PA,『ジンガ』用のフォトンアーツ。<br>跳ねるように敵を突き上げて攻撃する。<br>ヒットした敵に持続ダメージが発生。
+ジンガパルサー,3606184590,PA,Dot
+ジンガアサルト,3369572495,PA,『ジンガ』用のフォトンアーツ。<br>フォトンをまとい、ジグザグに突撃し<br>その後、プレイヤーの元へと戻る。
 通常攻撃(トリム),487482498,Melee,Torim auto-attack 1
 通常攻撃(トリム),487482435,Melee,Torim auto-attack 2
 通常攻撃(トリム),487489051,Melee,Torim auto-attack 3
@@ -889,13 +898,37 @@ Tダガースピン,3115487272,Special,3 gear
 トリムシャウト,4093858743,PA,トリムシャウト
 トリムスラッシュ,4093858613,PA,トリムスラッシュ
 トリムスラッシュ,672024361,PA,トリムスラッシュ shout buff
+通常攻撃(エアロ),37070160,Melee,Aero first normal attack
+通常攻撃(エアロ),37070227,Melee,Aero second normal attack
+通常攻撃(エアロ),37070290,Melee,Aero third normal attack
+エアロシャウト,772156432,PA,『エアロ』用のフォトンアーツ。<br>咆哮と共に気合を溜める。一定時間<br>特定のフォトンアーツの威力が上がる。
+エアロスタッブ,772155588,PA,『エアロ』用のフォトンアーツ。<br>瞬時に敵に近づき、体当たりで攻撃。<br>攻撃と同時に敵の反対側へ回る。
+エアロスラッシュ,772155525,PA,『エアロ』用のフォトンアーツ。<br>双翼のフォトンによる連続攻撃を行う。<br>幾重にも渡る翼撃は敵を切り刻む。
+エアロスラッシュ,88413264,PA,shout
+エアロスパイラル,4119800976,PA,『エアロ』用のフォトンアーツ。<br>力を溜め、必殺の一撃を放つ。<br>ボタンホールドで溜め、離すと発動。(uncharged)
+エアロスパイラル,4119798486,PA,(charge lv.1)
+エアロスパイラル,2888644253,PA,(charge lv.1 shout buff)
+エアロスパイラル,4119798295,PA,(charge lv.2)
+エアロスパイラル,3404513889,PA,(charge lv.2 shout buff)
+エアロバレット,2572277765,PA,『エアロ』用のフォトンアーツ。<br>宙返りと共に羽根弾を発射する。<br>その後、プレイヤーの元へと戻る。
+エアロバレット,88471088,PA,Hit1
+エアロバレット,3446126836,PA,Hit2
+エアロバレット,3446127031,PA,shout buff dot
 通常攻撃(サリィ),639929291,Melee,Sally auto-attack 1
 サリィプロード,2156897712,PA,サリィプロード
-サリィテリトリー,493814577,PA,サリィテリトリー
-サリィテリトリー,493814640,PA,サリィテリトリー
+サリィ/ポップルテリトリー,493814577,PA,サリィテリトリー
+サリィ/ポップルテリトリー,493814640,PA,サリィテリトリー
 サリィカース,3581010262,PA,サリィカース
 サリィフォール,385030021,PA,サリィフォール
 サリィチェイサー,385050960,PA,サリィチェイサー
+通常攻撃(ポップル),578161427,Melee,
+ポップルプロード,2622073432,PA,『ポップル』用のフォトンアーツ。<br>凝縮されたフォトン炸裂弾を発射する。<br>ボタンホールドでチャージ可能。
+ポップルプロード,850642716,PA,charge
+ポップルフォール,1711861634,PA,『ポップル』用のフォトンアーツ。<br>フォトンによる重力場を形成し<br>敵を捕らえ、行動を阻害する。
+ポップルテリトリー,32,PA,『ポップル』用のフォトンアーツ。<br>激化するフォトンによる攻撃。<br>ボタンホールドで威力が上昇する。
+ポップルテリトリー,33,PA,duplication
+ポップルチェイサー,1711859717,PA,『ポップル』用のフォトンアーツ。<br>敵をなぎ倒して進む追尾弾を発射する。<br>弾速は速いが、持続性は低い。
+ポップルカース,3737792897,PA,『ポップル』用のフォトンアーツ。<br>ジェルン効果を持つ追尾弾を敵へ放つ。<br>ジェルンは攻撃力を低下させる。
 通常攻撃(マロン),2944355330,Melee,Marron auto-attack 1
 通常攻撃(マロン),2944352598,Melee,Marron auto-attack 2
 通常攻撃(マロン),2944352663,Melee,Marron auto-attack 3
@@ -1066,9 +1099,9 @@ SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
 ヒールシェア,2616315751,Special,Heal Share (Bo skill)
 HP吸収,893379015,Special,Vampiric Blade/Celestial Bullet/Megiverse all belong here
 弧月蝕,2608912395,Special,Lunar Eclipse (Weapon Potential)
-飛斬翔刃(仮),3065779197,Special,斬撃(フォームシリーズ)(Weapon Potential)
-飛斬翔刃(仮),3065779131,Special,斬撃(フォームシリーズ)(Weapon Potential)
-飛斬翔刃(仮),3065778236,Special,斬撃(フォームシリーズ)(Weapon Potential)
+飛斬翔刃,3065779197,Special,斬撃(フォームシリーズ)(Weapon Potential)
+飛斬翔刃,3065779131,Special,斬撃(フォームシリーズ)(Weapon Potential)
+飛斬翔刃,3065778236,Special,斬撃(フォームシリーズ)(Weapon Potential)
 Emperappy hug <3,2088559161,Special,Emperappy hug <3
 東京風ハンバーグ,585389849,Special,Tokyo Style Hamburger (Cuisine)
 磁雷針,2370429206,Special,Magnetic Needle (Skyscape areas)
