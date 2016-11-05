@@ -907,12 +907,13 @@ Tダガースピン,3115487272,Special,3 gear
 エアロスラッシュ,88413264,PA,shout
 エアロスパイラル,4119800976,PA,力を溜め、必殺の一撃を放つ。(uncharged)
 エアロスパイラル,4119798486,PA,(charge lv.1)
-エアロスパイラル,2888644253,PA,(charge lv.1 shout buff)
+エアロスパイラル,663625842,PA,(charge lv.1 shock wave)
+エアロスパイラル,3404526192,PA,(charge lv.1 shout buff)
+エアロスパイラル,2888644253,PA,(charge lv.1 shock wave shout buff)
 エアロスパイラル,4119798295,PA,(charge lv.2)
+エアロスパイラル,647460626,PA,(charge lv.2 shock wave)
 エアロスパイラル,3404513889,PA,(charge lv.2 shout buff)
-エアロスパイラル,3404526192,PA,shock wave ? shout buff
-エアロスパイラル,647460626,PA,shock wave (仮)
-エアロスパイラル,1798066999,PA,shock wave (仮) shout buff
+エアロスパイラル,1798066999,PA,(charge lv.2 shock wave shout buff)
 エアロバレット,2572277765,PA,宙返りと共に羽根弾を発射する。その後、プレイヤーの元へと戻る。
 エアロバレット,88471088,PA,Hit1
 エアロバレット,3446126836,PA,Hit2
