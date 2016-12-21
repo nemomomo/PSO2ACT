@@ -988,6 +988,12 @@ Tダガースピン,3115487272,Special,3 gear
 シンクロウダン,2368496200,PA,プレイヤーの元へ戻り、気弾を発射。「繋ぎ」によってバインド効果が発生。
 シンクロウキャク,2368496330,PA,敵の攻撃を回転でいなし、蹴り払う。「繋ぎ」によって攻撃範囲が拡大する。
 シンクロウゲキ,2905893090,PA,全身の力を乗せた一撃を叩き込む。「繋ぎ」の回数に応じて、威力が上昇。
+通常攻撃(レドラン),2131775436,Melee,Ledran normal attack
+レドランレーザー,1219413769,PA,Ledran Laser
+レドランスラッシュ,4244805011,PA,Ledran Slash
+レドランマイン,4244805205,PA,Ledran Mine hit
+レドランマイン,1312015390,PA,Ledran Mine explosion
+レドランバースト,1282005173,PA,Ledran Burst
 打撃/アタック,2667138551,Special,Mag action (S-ATK Attack)
 打撃/ブロー,3296842070,Special,Mag action (S-ATK Blow)
 打撃/アッパー,546125641,Special,Mag action (S-ATK Upper)
@@ -1088,6 +1094,10 @@ SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
 ライドロイド,2452463220,Special,something relating to big ufo and rideroid
 ライドロイド,1732461796,Special,something relating to big ufo and rideroid
 ライドロイド,3809261131,Special,something relating to big ufo and rideroid
+ライドロイド,1876785244,Special,Rideroid auto-attack (Mother phase 1)
+ライドロイド,3765765641,Special,Rideroid rockets (Mother phase 1)
+ライドロイド,3642969286,Special,Rideroid barrel roll (Mother phase 1)
+ライドロイド,1258041436,Special,Rideroid Over Boost hit? (Mother phase 1)
 エネルギーリング,645891880,Special,ライドロイド エネルギーリング
 モノメイト,2925757257,Special,Monomate (Automate Halfline/Deadline also uses this)
 ディメイト,2925757256,Special,Dimate (Automate Halfline/Deadline also uses this)
