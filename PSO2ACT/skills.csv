@@ -14,6 +14,7 @@
 通常攻撃(タリス),603769679,Ranged,Talis second normal attack
 通常攻撃(タリス),603769484,Ranged,Talis third normal attack
 ロッドシュート,82081592,Melee,Rod Shoot
+アナザーロッドシュートモード,102418521,Special,Another Rod Shooting Mode ring
 フリーズイグニッション,3533119346,Special,Freeze Ignition (Fo skill)
 フォイエ,2875245395,Tech,Uncharged
 フォイエ,169905548,Tech,Charged
@@ -993,7 +994,9 @@ Tダガースピン,3115487272,Special,3 gear
 レドランスラッシュ,4244805011,PA,Ledran Slash
 レドランマイン,4244805205,PA,Ledran Mine hit
 レドランマイン,1312015390,PA,Ledran Mine explosion
-レドランバースト,1282005173,PA,Ledran Burst
+レドランバースト,1282005173,PA,Ledran Burst 1-3 balls
+レドランバースト,1282005238,PA,Ledran Burst 4-7 balls
+レドランバースト,1282005047,PA,Ledran Burst 8 balls
 打撃/アタック,2667138551,Special,Mag action (S-ATK Attack)
 打撃/ブロー,3296842070,Special,Mag action (S-ATK Blow)
 打撃/アッパー,546125641,Special,Mag action (S-ATK Upper)
@@ -1108,6 +1111,7 @@ SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
 ヒーリングガード,662646057,Special,Healing Guard (Hu skill)
 インジュリー,140040,Special,'Wound' state ending (Limit Break/PP Convert & Bayaribbles/Guar-Zigmorde/Hunar/Blu Ringahda/Viel all inflict this)
 ジャストリバーサルカバー,2440029502,Special,Just Reversal Cover (Br skill)
+ジャストリバーサルブラスト,3580699874,Special,Just Reversal B ring
 ヒールシェア,2616315751,Special,Heal Share (Bo skill)
 HP吸収,893379015,Special,Vampiric Blade/Celestial Bullet/Megiverse all belong here
 弧月蝕,2608912395,Special,Lunar Eclipse (Weapon Potential)
