@@ -45,6 +45,7 @@
 サ・バータ,3773212059,Tech,Sabarta charged (crafted?) second hit
 サ・バータ,3773297992,Tech,Sabarta charged (crafted?) third hit
 ナ・バータ,49556873,Tech,Cone
+零式ナ・バータ,2952624225,Tech,Nabarta (type-0)
 イル・バータ,3811499950,Tech,Uncharged1
 イル・バータ,1100223160,Tech,Charged1
 イル・バータ,3813876239,Tech,Uncharged2
@@ -96,6 +97,8 @@
 ギ・グランツ,1436931332,Tech,
 ギ・グランツ,2514551176,Tech,
 ギ・グランツ,2514506879,Tech,
+零式ギ・グランツ,3628407015,Tech,Gigrants (type-0) spin
+零式ギ・グランツ,3801422187,Tech,Gigrants (type-0) final spin
 ラ・グランツ,1533572763,Tech,Charged
 ラ・グランツ,3561438056,Tech,Uncharged
 レスタ,142771121,Tech,
@@ -252,6 +255,10 @@ Enemy Thrown,2164805818,PA,beatdown
 バンタースナッチ,4105316267,PA,バンタースナッチ (gear)
 セイクリッドスキュア,978114411,PA,セイクリッドスキュア
 セイクリッドスキュア,3090311227,PA,セイクリッドスキュア (gear)
+セイクリッドスキュア零式,1194865789,PA,Sacred Skewer (type-0) no gear uncharged
+セイクリッドスキュア零式,458263249,PA,Sacred Skewer (type-0) gear uncharged
+セイクリッドスキュア零式,2210359068,PA,Sacred Skewer (type-0) no gear charged
+セイクリッドスキュア零式,2391746623,PA,Sacred Skewer (type-0) gear charged
 ヴォルグラプター,936938020,PA,ヴォルグラプター
 ヴォルグラプター,925141705,PA,ヴォルグラプター charged
 ティアーズグリッド,3331228937,PA,Tear Grid combo ヒットs
@@ -309,6 +316,9 @@ Enemy Thrown,2164805818,PA,beatdown
 レイジダンス,2375995786,PA,レイジダンス shot
 エインラケーテン,1803337451,PA,エインラケーテン 打ち上げ
 エインラケーテン,4080719295,PA,エインラケーテン 射撃
+エインラケーテン零式,867419120,PA,Ein Raketen (type-0) hit
+エインラケーテン零式,2879859001,PA,Ein Raketen (type-0) slash stationary
+エインラケーテン零式,2001154192,PA,Ein Raketen (type-0) slash
 サーペントエア,3780905363,PA,サーペントエア ヒットs
 サーペントエア,3959349048,PA,サーペントエア final ヒット
 エイミングショット,1657878962,PA,エイミングショット (uncharged)
@@ -390,6 +400,9 @@ Tダガースピン,3115487272,Special,3 gear
 レイジングワルツ,238277154,PA,レイジングワルツ 1 gear
 レイジングワルツ,238277155,PA,レイジングワルツ 2 gear
 レイジングワルツ,238277152,PA,レイジングワルツ 3 gear
+レイジングワルツ零式,1205859348,PA,Raging Waltz (type-0) 1(?) gear
+レイジングワルツ零式,1205859349,PA,Raging Waltz (type-0) 2(?) gear
+レイジングワルツ零式,1205859350,PA,Raging Waltz (type-0) 3(?) gear
 シュートポルカ,2053605232,PA,シュートポルカ stage 0 gear
 シュートポルカ,2053605233,PA,シュートポルカ stage 1 gear
 シュートポルカ,2053605246,PA,シュートポルカ stage 2 gear
@@ -518,6 +531,8 @@ Tダガースピン,3115487272,Special,3 gear
 カンランキキョウ,206856796,PA,Kanran charged
 サクラエンド,3148575399,PA,Sakura uncharged
 サクラエンド,206860877,PA,Sakura charged
+サクラエンド零式,3124578212,PA,Sakura-endo (type-0) first hit
+サクラエンド零式,18135230,PA,Sakura-endo (type-0) second hit
 ヒエンツバキ,3148574817,PA,Hien
 アサギリレンダン,3148574752,PA,Asagiri
 アサギリレンダン,3341396290,PA,final hit
@@ -679,6 +694,9 @@ Tダガースピン,3115487272,Special,3 gear
 ゼロディスタンス,2709161503,PA,ゼロディスタンス
 ロデオドライブ,2219642677,PA,ロデオドライブ
 ロデオドライブ,2219641904,PA,Rodeo Drive air start hit
+ロデオドライブ零式,2419129261,PA,Rodeo Drive (type-0) ride
+ロデオドライブ零式,3817341497,PA,Rodeo Drive (type-0) finisher uncharged
+ロデオドライブ零式,3817342330,PA,Rodeo Drive (type-0) finisher charged
 クレイジースマッシュ,2709161368,PA,クレイジースマッシュ (direct enemy)
 フェイクシルエット,2219699734,PA,フェイクシルエット
 フレイムバレット,2709161242,PA,フレイムバレット
