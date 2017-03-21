@@ -1008,7 +1008,8 @@ Tダガースピン,3115487272,Special,3 gear
 シンクロウキャク,2368496330,PA,敵の攻撃を回転でいなし、蹴り払う。「繋ぎ」によって攻撃範囲が拡大する。
 シンクロウゲキ,2905893090,PA,全身の力を乗せた一撃を叩き込む。「繋ぎ」の回数に応じて、威力が上昇。
 通常攻撃(レドラン),2131775436,Melee,Ledran normal attack
-レドランレーザー,1219413769,PA,Ledran Laser
+レドランレーザー,1219413769,PA,Ledran Laser 1-3 lock-on
+レドランレーザー,1219413832,PA,Ledran Laser 4+ lock-on
 レドランスラッシュ,4244805011,PA,Ledran Slash
 レドランマイン,4244805205,PA,Ledran Mine hit
 レドランマイン,1312015390,PA,Ledran Mine explosion
