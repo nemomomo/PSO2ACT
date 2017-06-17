@@ -937,7 +937,7 @@ Tダガースピン,3115487272,Special,3 gear
 エアロバレット,88471088,PA,Hit1
 エアロバレット,3446126836,PA,Hit2
 エアロバレット,3446127031,PA,shout buff dot
-通常攻撃(サリィ),639929291,Melee,Sally auto-attack 1
+通常攻撃(サリィ),639929291,Melee,Cery auto-attack 1
 サリィプロード,2156897712,PA,サリィプロード
 サリィ/ポップルテリトリー,493814577,PA,サリィテリトリー
 サリィ/ポップルテリトリー,493814640,PA,サリィテリトリー
@@ -1002,11 +1002,18 @@ Tダガースピン,3115487272,Special,3 gear
 通常攻撃(シンクロウ),1147655708,Melee,シンクロウ first normal attack
 通常攻撃(シンクロウ),1147655711,Melee,Shinkurou second normal hit
 通常攻撃(シンクロウ),1147655710,Melee,Shinkurou third normal hit
-シンクロウザン,2368496396,PA,高速で接近し、フォトンの刃で一閃。「繋ぎ」によって威力が上昇する。
-シンクロウケン,2368496267,PA,拳による怒涛の乱打をお見舞いする。「繋ぎ」によってヒット数が増加する。
-シンクロウダン,2368496200,PA,プレイヤーの元へ戻り、気弾を発射。「繋ぎ」によってバインド効果が発生。
-シンクロウキャク,2368496330,PA,敵の攻撃を回転でいなし、蹴り払う。「繋ぎ」によって攻撃範囲が拡大する。
-シンクロウゲキ,2905893090,PA,全身の力を乗せた一撃を叩き込む。「繋ぎ」の回数に応じて、威力が上昇。
+シンクロウザン,2368496396,PA,Synchro Zan
+シンクロウザン,932657263,PA,Synchro Zan PA succession
+シンクロウキャク,2368496330,PA,Synchro Kyaku
+シンクロウキャク,1954712103,PA,Synchro Kyaku PA succession
+シンクロウケン,2368496267,PA,Synchro Ken
+シンクロウケン,3201748996,PA,Synchro Ken PA succession
+シンクロウダン,2368496200,PA,Synchro Dan
+シンクロウダン,4256887742,PA,Synchro Dan PA succession
+シンクロウゲキ,2905893090,PA,Synchro Geki
+シンクロウゲキ,2905888420,PA,Synchro Geki 2 PA succession
+シンクロウゲキ,2905888357,PA,Synchro Geki 3 PA succession
+シンクロウゲキ,2905888294,PA,Synchro Geki 4 PA succession
 通常攻撃(レドラン),2131775436,Melee,Ledran normal attack
 レドランレーザー,1219413769,PA,Ledran Laser 1-3 lock-on
 レドランレーザー,1219413832,PA,Ledran Laser 4+ lock-on
@@ -1158,4 +1165,4 @@ AIS フォトンラッシュ,79964675,Special,A.I.S gap closer PA attack (フォ
 AIS フォトンブラスター,1460054769,Special,A.I.S cannon (フォトンブラスター)
 AIS フォトンブリザード,4081218683,Special,A.I.S mob freezing attack (フォトンブリザード)
 AIS ウィークバスター,3298256598,Special,A.I.S Weak Bullet (ウィークバスター)
-AIS エリアヒール,2826401717,Special,A.I.S heal (エリアヒール)
+AIS エリアヒール,2826401717,Special,A.I.S heal (エリアヒール)  
