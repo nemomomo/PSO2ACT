@@ -1016,7 +1016,8 @@ Tダガースピン,3115487272,Special,3 gear
 シンクロウゲキ,2905888294,PA,Synchro Geki 4 PA succession
 通常攻撃(レドラン),2131775436,Melee,Ledran normal attack
 レドランレーザー,1219413769,PA,Ledran Laser 1-3 lock-on
-レドランレーザー,1219413832,PA,Ledran Laser 4+ lock-on
+レドランレーザー,1219413832,PA,Ledran Laser 4-7 lock-on
+レドランレーザー,1219413643,PA,Ledran Laser 8 lock-on
 レドランスラッシュ,4244805011,PA,Ledran Slash
 レドランマイン,4244805205,PA,Ledran Mine hit
 レドランマイン,1312015390,PA,Ledran Mine explosion
@@ -1144,6 +1145,7 @@ HP吸収,893379015,Special,Vampiric Blade/Celestial Bullet/Megiverse all belong 
 飛斬翔刃,3065779197,Special,斬撃(フォームシリーズ)(Weapon Potential)
 飛斬翔刃,3065779131,Special,斬撃(フォームシリーズ)(Weapon Potential)
 飛斬翔刃,3065778236,Special,斬撃(フォームシリーズ)(Weapon Potential)
+未知なる魔杖,4139628318,Special,Mysterious Conjurer (Lavis Cannon) (weapon Potential)
 Emperappy hug <3,2088559161,Special,Emperappy hug <3
 東京風ハンバーグ,585389849,Special,Tokyo Style Hamburger (Cuisine)
 磁雷針,2370429206,Special,Magnetic Needle (Skyscape areas)
@@ -1165,4 +1167,4 @@ AIS フォトンラッシュ,79964675,Special,A.I.S gap closer PA attack (フォ
 AIS フォトンブラスター,1460054769,Special,A.I.S cannon (フォトンブラスター)
 AIS フォトンブリザード,4081218683,Special,A.I.S mob freezing attack (フォトンブリザード)
 AIS ウィークバスター,3298256598,Special,A.I.S Weak Bullet (ウィークバスター)
-AIS エリアヒール,2826401717,Special,A.I.S heal (エリアヒール)  
+AIS エリアヒール,2826401717,Special,A.I.S heal (エリアヒール)
