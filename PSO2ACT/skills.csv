@@ -67,8 +67,9 @@
 ゾンディール,3588292375,Tech,Charged
 ゾンディール,2651268955,Tech,Uncharged
 ナ・ゾンデ,2789601843,Tech,Charged
-ナ・ゾンデ,1343119479,Tech,Nazonde no spam ignition? what is sega thinking
+ナ・ゾンデ,3856490257,Tech,Charged "first thunder"
 ナ・ゾンデ,4278420419,Tech,Uncharged
+ナ・ゾンデ,1343119479,Tech,Uncharged Nazonde "first thunder"
 イル・ゾンデ,1756866220,Tech,Charged
 イル・ゾンデ,2398664728,Tech,Uncharged
 ザン,521246550,Tech,Charged
@@ -281,6 +282,8 @@ Enemy Thrown,2164805818,PA,beatdown
 アザーサイクロン零式,1370775705,PA,Other Cyclone craft grab
 アザーサイクロン零式,3838831464,PA,spin
 アザーサイクロン零式,3070400580,PA,throw
+アザーサイクロン零式,4266934922,PA,Other Cyclone (C) thrown into enemy (ground)
+アザーサイクロン零式,1107498562,PA,Other Cyclone (C) thrown into enemy (air)
 アザースピン,781364083,PA,アザースピン start
 アザースピン,516963559,PA,アザースピン spin
 アザースピン,1667539754,PA,アザースピン end
@@ -1125,9 +1128,9 @@ SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
 ライドロイド,1732461796,Special,something relating to big ufo and rideroid
 ライドロイド,3809261131,Special,something relating to big ufo and rideroid
 ライドロイド,1876785244,Special,Rideroid auto-attack (Mother phase 1)
-ライドロイド,3765765641,Special,Rideroid rockets (Mother phase 1)
-ライドロイド,3642969286,Special,Rideroid barrel roll (Mother phase 1)
-ライドロイド,1258041436,Special,Rideroid Over Boost hit? (Mother phase 1)
+ライドロイド(ホーミングミサイル),3765765641,Special,Rideroid rockets (Mother phase 1)
+ライドロイド(スピンアタック),3642969286,Special,Rideroid barrel roll (Mother phase 1)
+ライドロイド(スピンアタック),1258041436,Special,Rideroid Over Boost hit? (Mother phase 1)
 エネルギーリング,645891880,Special,ライドロイド エネルギーリング
 モノメイト,2925757257,Special,Monomate (Automate Halfline/Deadline also uses this)
 ディメイト,2925757256,Special,Dimate (Automate Halfline/Deadline also uses this)
