@@ -1171,6 +1171,25 @@ SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
 イリオス・ニフタ,4037912097,Special,PB Ilios Nykta 1-chain
 イリオス・ニフタ,4037912102,Special,PB Ilios Nykta 2-chain
 イリオス・ニフタ,4037912103,Special,PB Ilios Nykta 3-chain
+通常攻撃(ダークブラスト),267911699,Melee,Dark Blast first hit
+通常攻撃(ダークブラスト),262346668,Melee,Dark Blast second
+通常攻撃(ダークブラスト),265285249,Melee,Dark Blast third
+通常攻撃(ダークブラスト),264996390,Melee,Dark Blast fourth (kick)
+通常攻撃(ダークブラスト),311089933,Melee,Dark Blast fifth (launcher)
+通常攻撃(ダークブラスト),3988916155,Melee,Dark Blast sixth (pummel)
+通常攻撃(ダークブラスト),265781051,Melee,Dark Blast seventh (pummel pt2)
+ステップアタック(ダークブラスト),3141577094,Melee,Dark Blast Step Attack
+ヴァイオレンスステップ,2289473436,Melee,Dark Blast Violence Step
+フィジカルダッシュ,517914866,PA,Physical Dash melee
+フィジカルダッシュ,517914869,PA,Physical Dash melee wide range
+パニッシュメントナックル,1117313539,PA,Punishment Knuckle
+パニッシュメントナックル,1611279117,PA,Punishment Knuckle charged
+アルティメットインパクト,3283361988,PA,Ultimate Impact
+インフィニティラッシュ,1117313602,PA,Infinity Rush hits uncharged
+インフィニティラッシュ,395090797,PA,Infinity Rush finish
+インフィニティラッシュ,2429416220,PA,Infinity Rush hits charged
+インフィニティラッシュ,1697271546,PA,Infinity Rush finish charged
+タイラントストライク,1117313924,PA,Tyrant Strike
 ブーストキック,85301614,Special,Tokyo speed-pad kick level 1
 ブーストキック,85302964,Special,Tokyo speed-pad kick level 2 
 ブーストキック,85303029,Special,Tokyo speed-pad kick level 3
